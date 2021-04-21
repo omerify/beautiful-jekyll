@@ -17,10 +17,10 @@ author: Ömer Serdar Ören
 
 navbar-links:
   Hakkında: "hakkinda"
+  İletişim: "iletisim"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Anasayfa: "https://omerify.com"
+    - YouTube: "https://www.youtube.com/c/omerify"
 
 # --- Logo --- #
 
