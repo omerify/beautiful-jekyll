@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hakkımda
+title: Hakkında
 subtitle: Ne yaptığını biliyorsan; Yapma!
 permalink: /hakkinda/
 ---
