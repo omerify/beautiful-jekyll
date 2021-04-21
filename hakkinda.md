@@ -21,5 +21,3 @@ Bu sayfayı ve site hakkındaki bilgileri güncel tutmaya çalışacağım. blog
 Bilginize saygıyla sunulur.
 
 Ömer Serdar Ören
-
-<img src="https://storage.googleapis.com/omerify/uploads/2021/02/omer-profile-photo_400x400.jpg" width="200" height="200" align="left" >
