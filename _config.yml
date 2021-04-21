@@ -18,9 +18,9 @@ author: Ömer Serdar Ören
 navbar-links:
   Hakkında: "hakkinda"
   İletişim: "iletisim"
-  Resources:
-    - Learn markdown: "https://www.markdowntutorial.com/"
-    - YouTube: "https://www.youtube.com/c/omerify"
+  Sayfalar:
+    - Hakkında: "hakkinda"
+    - İletişim: "iletisim"
 
 # --- Logo --- #
 
