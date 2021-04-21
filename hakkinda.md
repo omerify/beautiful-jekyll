@@ -5,7 +5,9 @@ subtitle: Ne yaptığını biliyorsan; Yapma!
 permalink: /hakkinda/
 ---
 
-![Ömer Serdar Ören](https://storage.googleapis.com/omerify/uploads/2021/02/omer-profile-photo_400x400.jpg)
+<p align="center">
+  <img width="200" height="200" src="https://storage.googleapis.com/omerify/uploads/2021/02/omer-profile-photo_400x400.jpg">
+</p>
 omerify.com bir blog sitesi olup kişisel paylaşımlardan oluşmaktadır.
 
 Bu sitenin temeli basitlik, saflık, bağımsızlık ve samimiyet üzerine kurulu. Hayata dair şahit olduklarımı kendi bakış açımla yayınlıyorum. Hayatın, düşüncelerin, bilgilerin ve anlık her türlü ortamın hızlı aktığı günümüz dünyasında; hayata dair ne varsa (notlarım, beğendiklerim, beğenmediklerim, şiirler, blog yazıları, fotoğraflar, çeviriler, videolar, işime yarayan bilgileri ve bilumum şeyleri) bir yerde toplama ve gelecekte kendim ile ilgili gözlem yapma amacı ile açtım.
