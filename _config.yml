@@ -5,8 +5,10 @@
 
 # --- Required options --- #
 
+language: tr
+
 # Name of website
-title: My Website
+title: omerify
 
 # Your name to show in the footer
 author: Some Person
