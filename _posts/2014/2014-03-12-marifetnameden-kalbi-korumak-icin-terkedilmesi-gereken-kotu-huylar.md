@@ -25,32 +25,32 @@ Bu kadar çok kötü huy olduğunu bilmiyordum. Yaklaşık 300 yıl öncesi içi
 
 Neyse… Bir yerden başlamak gerekiyor. Ümitsiz olmaya lüzum yok! Haydi kolay gele..!
 
-[^1]: Ucb: Bir açıklamaya göre ise; kendini beğenmenin kibir olduğu olması gibi başkalarını beğenmemeyi ucub olarak tanımlanıyor. Diğer açıklamada ise; Ruh dünyamızın iki büyük düşmanı olarak anlatılıyor. En kısa ifadesiyle, **yeis** “kişinin cehennemini garanti görmesi”, **ucub ise** _“cennetini kesin bilmesi”_dir. Bir başka ifadeyle, **yeis**”Allah’ın rahmetinden ümit kesmek”; **ucub ise** _“O’nun azabından kendini emin sanmaktır.”_
+[1]: Ucb: Bir açıklamaya göre ise; kendini beğenmenin kibir olduğu olması gibi başkalarını beğenmemeyi ucub olarak tanımlanıyor. Diğer açıklamada ise; Ruh dünyamızın iki büyük düşmanı olarak anlatılıyor. En kısa ifadesiyle, **yeis** “kişinin cehennemini garanti görmesi”, **ucub ise** _“cennetini kesin bilmesi”_dir. Bir başka ifadeyle, **yeis**”Allah’ın rahmetinden ümit kesmek”; **ucub ise** _“O’nun azabından kendini emin sanmaktır.”_
 
-[^2]: Bahillik: Cimrilik
+[2]: Bahillik: Cimrilik
 
-[^3]: Küfran-ı Nimet: Cenab-ı Hakkın ihsan ettiği ni’metleri bilmemek ve hürmetsizlikte bulunmak.
+[3]: Küfran-ı Nimet: Cenab-ı Hakkın ihsan ettiği ni’metleri bilmemek ve hürmetsizlikte bulunmak.
 
-[^4]: Tul-i emel: insanın dünya hayatında ebedi yaşayacak gibi plan ve program içinde olup, çok uzun emeller beslemesi
+[4]: Tul-i emel: insanın dünya hayatında ebedi yaşayacak gibi plan ve program içinde olup, çok uzun emeller beslemesi
 
-[^5]: Tamâ: Açgözlülük, aşırı istek.
+[5]: Tamâ: Açgözlülük, aşırı istek.
 
-[^6]: Şematet: başkasına gelen belaya, zarara sevinmektir. (Din kardeşinize şematet etmeyiniz! Şematet ederseniz, Allahü teâlâ belayı ondan alır size verir.) [Tirmizi]
+[6]: Şematet: başkasına gelen belaya, zarara sevinmektir. (Din kardeşinize şematet etmeyiniz! Şematet ederseniz, Allahü teâlâ belayı ondan alır size verir.) [Tirmizi]
 
-[^7]: Tehevvür: Sonunu düşünmeden öfkelenme, âniden karar verme
+[7]: Tehevvür: Sonunu düşünmeden öfkelenme, âniden karar verme
 
-[^8]: Gadr: Hainlik, vefasızlık, zulüm, merhametsizlik, haksızlık
+[8]: Gadr: Hainlik, vefasızlık, zulüm, merhametsizlik, haksızlık
 
-[^9]: Su-i zan: Birinin kötü bir iş yaptığını zannetmektir. Kalbe gelen kötü düşünce
+[9]: Su-i zan: Birinin kötü bir iş yaptığını zannetmektir. Kalbe gelen kötü düşünce
 
-[^10]: Gış: Şüphe ve tereddüt, kararsızlık. Kin ve hile. Hiyanet ve düşmanlık
+[10]: Gış: Şüphe ve tereddüt, kararsızlık. Kin ve hile. Hiyanet ve düşmanlık
 
-[^11]: Müdahene: Gücü yettiği halde, haram işleyene mani olmamak, dalkavukluk yaparak, birinin gönlünü alırken, İslamiyet’in dışına çıkmak, günaha girmektir.
+[11]: Müdahene: Gücü yettiği halde, haram işleyene mani olmamak, dalkavukluk yaparak, birinin gönlünü alırken, İslamiyet’in dışına çıkmak, günaha girmektir.
 
-[^12]: Temerrüd: Direnmek, dikbaşlılık etmek, inat etmek. Yapılması gereken bir şeyi yapmakta kasten geciktirme.
+[12]: Temerrüd: Direnmek, dikbaşlılık etmek, inat etmek. Yapılması gereken bir şeyi yapmakta kasten geciktirme.
 
-[^13]: Cerbeze: Kurnazlık, hilekârlık.
+[13]: Cerbeze: Kurnazlık, hilekârlık.
 
-[^14]: Gabavet: Ahmaklık, anlayışsızlık, bönlük, kalın kafalılık.
+[14]: Gabavet: Ahmaklık, anlayışsızlık, bönlük, kalın kafalılık.
 
-[^15]: Şereh sâhibi, helâl ve haram gözetmeksizin her istediğini elde etmeye çalışır. Başkalarının zarârına da olsa beğendiği şeyleri toplar.
+[15]: Şereh sâhibi, helâl ve haram gözetmeksizin her istediğini elde etmeye çalışır. Başkalarının zarârına da olsa beğendiği şeyleri toplar.
