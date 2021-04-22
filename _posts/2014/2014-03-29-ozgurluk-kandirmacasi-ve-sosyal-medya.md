@@ -42,8 +42,7 @@ Yukarıdaki kısa yazıdan ne anladınız bilemiyorum ama temel olarak benim anl
 
 “Peki ama nasıl?” dediğinizi duyar gibiyim. Bu soruya cevap olarak sayılabilecek şiirler için Yunus Emre’ye bağlanıyoruz.
 
-
-    <strong>GÖNÜLLER YAPMAYA GELDiM</strong>
+**GÖNÜLLER YAPMAYA GELDiM**
 
 <blockquote>
   <p>
@@ -51,9 +50,7 @@ Yukarıdaki kısa yazıdan ne anladınız bilemiyorum ama temel olarak benim anl
   </p>
 </blockquote>
 
-
-    <strong>GÖNÜL CALABIN TAHTI</strong>
-
+**GÖNÜL CALABIN TAHTI**
 
 <blockquote>
   <p>
