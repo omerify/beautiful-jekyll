@@ -1,5 +1,5 @@
 ---
-title: Gizli Evrenimiz: Hücrelerin Gizli Yaşamı
+title: 'Gizli Evrenimiz: Hücrelerin Gizli Yaşamı'
 date: 2013-07-21T21:25:53+03:00
 author: omerify
 layout: post
@@ -15,11 +15,12 @@ tags:
   - saglik
 ---
 
+Bu hücrenin hikayesi yenilenmenin hikayesidir, hücredeki evrenin hikayesidir.  
+
 ## Videodan Notlar: 
 
 _**(Maalesef belgeselin yayınlandığı link patlamış)**_
 
-Bu hücrenin hikayesi yenilenmenin hikayesidir, hücredeki evrenin hikayesidir.  
 Biz farkında olsak da, olmasak da virüslerle olan savaş 7 milyar bedende her saniye devam ediyor.  
 Bu savaşla birbirimizi değiştiriyor, geliştiriyoruz.  
 İnsan bedeninde her biri birbirinden farklı 120 trilyon hücre bulunmaktadır.  
