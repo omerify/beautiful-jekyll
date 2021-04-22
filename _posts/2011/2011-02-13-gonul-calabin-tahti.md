@@ -19,29 +19,32 @@ Bazı yerlerinde tam olarak ne dediğini anlamadığım halde ruhumun derinlerin
 
 Not: Bilinmeyen kelimelerin açıklamaları şiirin altına eklenmiştir.
 
-    <h4>
-      GÖNÜL CALAB’IN&nbsp;TAHTI
-    </h4>
-    
-    <blockquote>
-      <p>
-        Miskinlikte buldular, kimde erlik var ise<br />Merdivenden ittiler, yüksekten bakar ise<br />Gönül yüksekte gezer, dem-be-dem yoldan azar<br />Dış yüzüne o sızar içinde ne var ise
-      </p>
-      
-      <p>
-        Ak sakallı pir hoca, bilemez hali nice<br />Emek vermesin hacca, bir gönül yıkar ise<br />Sağır işitmez sözü, gece sanar gündüzü<br />Kördür münkirin gözü, alem münevver ise
-      </p>
-      
-      <p>
-        Gönül Calab’ın tahtı, Calap gönüle baktı<br />İki cihan bedbahtı, kim gönül yıkar ise<br />Sen sana ne sanırsan ayruga da onu san<br />Dört kitabın manası budur eğer var ise
-      </p>
-      
-      <p>
-        Bildik gelenler geçmiş, konanlar geri göçmüş<br />Aşk şarabından içmiş, kim mana duyar ise<br />Yunus yoldan azuban, yüksek yerde durmasın<br />Sinle sırat görmeye, sevdiği didar ise
-      </p>
-      
-      <cite>Yunus Emre</cite>
-    </blockquote>
+GÖNÜL CALAB’IN&nbsp;TAHTI
+
+<blockquote>
+ 
+Miskinlikte buldular, kimde erlik var ise
+Merdivenden ittiler, yüksekten bakar ise
+Gönül yüksekte gezer, dem-be-dem yoldan azar
+Dış yüzüne o sızar içinde ne var ise
+
+Ak sakallı pir hoca, bilemez hali nice
+Emek vermesin hacca, bir gönül yıkar ise
+Sağır işitmez sözü, gece sanar gündüzü
+Kördür münkirin gözü, alem münevver ise
+
+Gönül Calab’ın tahtı, Calap gönüle baktı
+İki cihan bedbahtı, kim gönül yıkar ise
+Sen sana ne sanırsan ayruga da onu san
+Dört kitabın manası budur eğer var ise
+
+Bildik gelenler geçmiş, konanlar geri göçmüş
+Aşk şarabından içmiş, kim mana duyar ise
+Yunus yoldan azuban, yüksek yerde durmasın
+Sinle sırat görmeye, sevdiği didar ise
+
+<cite>Yunus Emre</cite>
+</blockquote>
 
 
   * **Dem-be-dem&nbsp;**: Zaman zaman
