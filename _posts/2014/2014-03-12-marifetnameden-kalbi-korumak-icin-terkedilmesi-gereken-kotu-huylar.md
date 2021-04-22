@@ -25,8 +25,6 @@ Bu kadar çok kötü huy olduğunu bilmiyordum. Yaklaşık 300 yıl öncesi içi
 
 Neyse… Bir yerden başlamak gerekiyor. Ümitsiz olmaya lüzum yok! Haydi kolay gele..!
 
-<hr />
-
 [^1]: Ucb: Bir açıklamaya göre ise; kendini beğenmenin kibir olduğu olması gibi başkalarını beğenmemeyi ucub olarak tanımlanıyor. Diğer açıklamada ise; Ruh dünyamızın iki büyük düşmanı olarak anlatılıyor. En kısa ifadesiyle, **yeis** “kişinin cehennemini garanti görmesi”, **ucub ise** _“cennetini kesin bilmesi”_dir. Bir başka ifadeyle, **yeis**”Allah’ın rahmetinden ümit kesmek”; **ucub ise** _“O’nun azabından kendini emin sanmaktır.”_
 
 [^2]: Bahillik: Cimrilik
