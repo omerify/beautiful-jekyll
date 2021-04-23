@@ -14,14 +14,14 @@ tags:
   - medya
 ---
 
-![](https://storage.googleapis.com/omerify/uploads/2021/01/turkiye-kavsak-noktasinda-turkey-at-crossroad.jpg)
+![](https://omerify.github.io/blog/assets/img/2021/01/turkiye-kavsak-noktasinda-turkey-at-crossroad.jpg)
 
-<blockquote class="wp-block-quote">
+<blockquote>
   <p>
     “Turkey at the Crossroads” — TIME Magazine, Dec. 1943
   </p>
 </blockquote>
 
-1943 yılında Time Dergisi’nden Türkiye ile ilgili olarak ‘Türkiye kavşak noktasında’ başlığı atılmış. 
+1943 yılında Time Dergisi’nden Türkiye ile ilgili olarak ‘Türkiye kavşak noktasında’ başlığı atılmış.
 
 Sene 2016 oldu ve pek bir şey değişmiş değil!
