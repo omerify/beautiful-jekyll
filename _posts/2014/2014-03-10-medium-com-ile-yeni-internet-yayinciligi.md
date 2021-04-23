@@ -12,7 +12,7 @@ tags:
   - yazi
 ---
 
-![](https://storage.googleapis.com/omerify/uploads/2021/01/medium-anasayfa-homepage.png) 
+![](https://omerify.github.io/blog/assets/img/2014/03/medium-anasayfa-homepage.png) 
 
 Son yıllarda blog dünyasındaki gelişmeler sunulan servisleri geliştirmekten ibaretti. Bloggerlar için bir sonraki büyük şeyin ne olabileceği merak konusu iken karşıma <a href="http://omerify.medium.com/" target="_blank" rel="noreferrer noopener">Medium</a> çıktı. Biraz tanıdıkça “**Medium** ile yeni bir yayıncılık veya blogculuk dönemi başlayabilir mi?” sorusunu kendime sormadan edemedim ve bazı cevaplar aradım.
 

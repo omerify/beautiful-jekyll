@@ -19,7 +19,7 @@ tags:
   - yuksek kaliteli fotograf
 ---
 
-![](https://storage.googleapis.com/omerify/uploads/2021/02/omerify-eminonu-istanbul-vapur-cami-deniz-bulut-IMG_20210201_124925.jpg)
+![](https://omerify.github.io/blog/assets/img/2014/05/omerify-eminonu-istanbul-vapur-cami-deniz-bulut-IMG_20210201_124925.jpg)
 
 Bloggerların en büyük dertlerinden biri, özene bezene hazırladığı yazıya uygun ve bedava fotoğraf bulabilmek. Hepimiz biliyoruz ki ne kadar güzel bir yazı yazarsanız yazın; görsellerle desteklenmediği sürece okuyucu için kaçış nedeni olarak görülüyor.
 

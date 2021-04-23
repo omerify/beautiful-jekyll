@@ -27,7 +27,7 @@ tags:
   </p>
 </blockquote>
 
-![](https://storage.googleapis.com/omerify/uploads/2021/01/mentalist-yazi.jpg)
+![](https://omerify.github.io/blog/assets/img/2014/04/mentalist-yazi.jpg)
 
 Mentalist diyebileceğimiz bir kişiyi yukarıdaki marifetleri sergilemek için; telkin, hipnoz, hafıza eğitimi, illüzyon, beden dili, psikoloji ve genel kültür alanlarında kendini yetiştirmiş olması gerekiyor. Mentalizmin ne olduğunu anlatmak kolay değil. Her şeyden biraz var. Dizinin bir kaç bölümünü izlerseniz aklınızda daha net resim belirebilir. Naçizane bu yazıyı yazmamda “The Mentalist” dizinin rolü büyük.
 
@@ -35,7 +35,7 @@ Burada öncelikle insanları okumak için gerekli bir bilgiden yani “**Beden D
 
 Özellikle son yıllarda **beden diline (**<a href="http://tr.wikipedia.org/wiki/S%C3%B6zs%C3%BCz_ileti%C5%9Fim" target="_blank" rel="noreferrer noopener nofollow" title="Sözsüz İletişim">Sözsüz iletişim</a>) olan ilgi çığ gibi büyüyor. Herkesin basit yöntemlerle kişisel ilişkilerinden, profesyonel iş hayatına varan yelpazede kullanabileceği basit yöntemlerle hayata farklı bir renk katmak mümkün. İsterseniz bir kafede çayınızı yudumlarken insanlar arasındaki sözsüz iletişimi -beden dilini- izlerken eğlenebilirsiniz. Ama konu kişisel bir yetenek olunca kazanmak için çalışmalısınız. Şanlıyız ki bu doğal dili kullanma ve okuma konusunda yeteneğimiz doğuştan geliyor. (Yapılan <a href="http://webarsiv.hurriyet.com.tr/2002/06/03/134842.asp" target="_blank" rel="noreferrer noopener nofollow">araştırmalar</a> gösteriyor ki bebeklerin yüz tanıma ve yüzleri ayırt edebilme yetisi yetişkinlerden daha iyi.)Sadece biraz dikkat, eğitim ve gözlem sayesinde çok basit yöntemlerle hayatınız bir farkındalık yaratabilirsiniz. Hatta tevazuya gerek yok! Hayatınızı değiştirebilirsiniz.
 
-<img src="https://storage.googleapis.com/omerify/uploads/2021/01/body-language-beden-dili-sema.jpg" />
+<img src="https://omerify.github.io/blog/assets/img/2014/04/body-language-beden-dili-sema.jpg" />
 
 Sosyal Psikolog Prof. <a href="http://en.wikipedia.org/wiki/Albert_Mehrabian" target="_blank" rel="noreferrer noopener nofollow" title="Albert Mehrabian">Albert Mehrabian</a> 1971′de yapmış olduğu çalışmalardan (ki bu konuda yapılan ilk bilimsel çalışmalar olarak kabul edilir.) herkesin kabul ettiği 55/38/7 kuralı çıkmıştır. Karşılıklı iletişimin üç unsuru:
 

@@ -13,7 +13,7 @@ tags:
   - yazi
 ---
 
-![](https://storage.googleapis.com/omerify/uploads/2021/01/satilik-medya.jpg) 
+![](https://omerify.github.io/blog/assets/img/2014/03/satilik-medya.jpg) 
 
 Gün geçmiyor ki benim yalnız ve güzel ülkemde birilerinin durup dururken başı belaya girmesin arkadaş. Hiç olmadık bir zamanda, geçmişinizle ilgili çeşitli konulardan **bağzı** yasalarla ilgili olarak başınız ağrıyabilir.
 

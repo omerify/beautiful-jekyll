@@ -20,7 +20,7 @@ tags:
 
 <hr />
 
-![](https://storage.googleapis.com/omerify/uploads/2021/01/digitalocean-logo1.png)
+![](https://omerify.github.io/blog/assets/img/2014/05/digitalocean-logo1.png)
 
 Bu yazıyı da benim gibi acemiler için hazırladım. Çok karışık olmayacak şekilde Türkçe kaynak olmasını istedim.  
 Fiyatları ile herkesin gözünü dolduran firma, eminim tüm meraklı gözlerin gözetimi altındadır. Dün elime geçen bir kupon sayesinde digital ocean firmasını deneme fırsatı buldum. 10$’lık da bir kredi yükledim ve bir süre idare edebilecek VPS hizmeti satın almış oldum. Ama bir sorun vardı! Daha önce hiç VPS kullanmamıştım. Yani kendi sunucumu kendim yönetmek zorunda kalmamış ve garip siyah ekranlı terminallere ‘command’lar yazmamıştım. Daha önce almış olduğum hosting hizmetlerini wordpress kurmak ve blogumu ayakta tutabilmek için satın almıştım. Her wordpress kullanan gibi yerli yabancı bir çok hosting firması kullanmak zorunda kalmıştım. Ne kadar zor olabilir ki diye düşünürken, kullanımının basitliğiyle övünen firmanın developer’lar için olduğunu, aldıktan sonra kavradım. Çünkü cpanel yok, ftp kullanıcı adı şifre, mysql adres yok, yok oğlu yok! Bende yarım yamalak İngilizcemle internette araştırmaya koyuldum ve bir kaç saatlik uğraştan sonra nihayet kurdum. ( Hoş, sonra sildim ama olsun☺ ) Bu fiyatlara bu özellikleri kaçıramazdım. Sizde benim gibi düşünüyorsanız buradan buyrun…
@@ -33,7 +33,7 @@ Fiyatları ile herkesin gözünü dolduran firma, eminim tüm meraklı gözlerin
 
 <a href="https://m.do.co/c/24f61f55683d" target="_blank" rel="noreferrer noopener">Buraya</a> tıklayarak digitalocean’a gidiyor ve üye oluyoruz. Üye olmak için **eposta** adresi ve **şifrenizi** girmeniz yeterli. Eposta adresine gelen onaylama linkine tıkladığınızda üyeliğiniz tamamlamış oluyorsunuz, bu kadar basit. Digital ocean hesabınıza girdiğinizde ise aşağıdaki gibi bir ekranla karşılaşıyorsunuz.
 
-![](https://storage.googleapis.com/omerify/uploads/2021/01/ekran-resmi-digitalocean-ana-ekran.png)
+![](https://omerify.github.io/blog/assets/img/2014/05/ekran-resmi-digitalocean-ana-ekran.png)
 
 Daha sonra buradaki ‘**Update Billing**’ bölümüne tıklayarak ödeme yönteminizi (Kredi kartı ya da Paypal) belirliyorsunuz. Ben 10$ ödeyerek başladım. Eğer acemiyseniz size de aynısını tavsiye ederim.
 
@@ -43,13 +43,13 @@ Daha sonra buradaki ‘**Update Billing**’ bölümüne tıklayarak ödeme yön
 
 Ödemenizi yaptıktan sonra hemen logonun altında ‘**create**’ butonuna tıklıyorsunuz ve aşağıdaki ekran sizi karşılıyor.
 
-![](https://storage.googleapis.com/omerify/uploads/2021/01/ekran-resmi-digitalocean-droplet-olusturma.png) 
+![](https://omerify.github.io/blog/assets/img/2014/05/ekran-resmi-digitalocean-droplet-olusturma.png)
 
 **“deneme”** yazan yere boşluk olmayacak şekilde istediğinizi yazabilirsiniz. Örneğin: benimblogumcom  
 **Select size:** Bu bölüm VPS’inizin genişliği ile alakalı. Başlangıç için aylık 5$ olan seçeneği işaretliyoruz.  
 **Select Region:** Makinanızın nerede olacağını seçmeniz gerekiyor. Türkiye şartlarında en uygunu **Amsterdam**, **Frankfurt** ya da **London** olacaktır.
 
-![](https://storage.googleapis.com/omerify/uploads/2021/01/ekran-resmi-digitalocean-droplet-olusturma-app-secimi.png)
+![](https://omerify.github.io/blog/assets/img/2014/05/ekran-resmi-digitalocean-droplet-olusturma-app-secimi.png)
 
 **Select Image:** Sayfanın altında bulunan bu bölüme geldiğinizde “**Applications**” sekmesini tıklayın ve “_WordPress on 14.04_” yazan bölümü seçin. Son olarak en alttaki “**Create Droplet**” butonunu tıkladığınızda 2. adımda bitmiş olacaktır. Bu işlem sonucunda kayıt olduğunuz email adresine “_root_”, “_password_” ve “_IP adresi_” bilgilerini içeren bir eposta gelecektir.
 
@@ -59,7 +59,7 @@ Daha sonra buradaki ‘**Update Billing**’ bölümüne tıklayarak ödeme yön
 
 Bu adımda bir alan adınızın olduğunu varsayıyorum. (Alan adı olmadan da yapmak mümkün) Kontrol panelizde sol tarafta bulunan “**DNS**” linkine tıklayın. Karşınıza gelecek ekranda daha önceden sahip olduğunuz alanadını girin, oluşturduğunuz droplet ismini seçin ve “**create domain**” butonuna tıklayın.
 
-![](https://storage.googleapis.com/omerify/uploads/2021/01/ekran-resmi-digitalocean-dns-ayarlari.png)
+![](https://omerify.github.io/blog/assets/img/2014/05/ekran-resmi-digitalocean-dns-ayarlari.png)
 
 Oluşturduğunuz droplet ismini seçerken sizin VPS’inizin IP adresini de gösterecektir. İşte bu IP adresini, domaini satın aldığınız firmadan, A records’ları olarak değiştirin. (Hem www hem de www’siz için A records’ları değiştirmeyi unutmayın) Unutmadan IP adresini size gönderilen epostada da bulabilirsiniz. (Size gönderilen IP adresi unique yani sadece sizin sitenize özel.) Ben A records falan bilmem diyorsanız. Name Server’larınızı (DNS) aşağıdaki gibi de yapabilirsiniz.
 
@@ -82,7 +82,7 @@ Sırada benim gibi kişilerin hiç aşina olmadığı bir durum söz konusu.
 
 Karşınıza aşağıdaki gibi bir ekran çıkacak. Login yazan yere “**root**” yazın ve “enter” layın. Sonra şifre soracak. Şifre bölümüne epostada gelen şifreyi yazın. Yazarken hiç bir yazı görünmeyecektir. Hata yok, siz yazmaya devam edin ve “Enter”a basın. (Eğer yazısız simsiyah bir ekran görürseniz, siyah bölümün üstüne fare ile tıklarken, klavyeden herhangi bir tuşa basın. Düzelecektir.)
 
-![](https://storage.googleapis.com/omerify/uploads/2021/01/digitalocean-konsol-ekrani1.png)
+![](https://omerify.github.io/blog/assets/img/2014/05/digitalocean-konsol-ekrani1.png)
 
 Kullanıcı adı(root) ve şifrenizi doğru girerseniz ekranda çeşitli yazılar çıkacaktır. Daha sonra sizden email ile gönderilen root şifresini değiştirmeniz istenecek. İlk önce size gönderilen root şifresi ve daha sonra iki defa kendi belirleyeceğiniz karmaşık bir şifre girin. Daha sonra çıkan ekranda&nbsp;.htaccess satırının altında kullanıcı adı olarak “admin” ve bir “şifre” olacak. Bu şifreyi not edin.
 
@@ -98,7 +98,7 @@ Kullanıcı adı(root) ve şifrenizi doğru girerseniz ekranda çeşitli yazıla
 
 Güvenlik nedeniyle **wordpress** ve **root** şifrenizden farklı olarak her çıkış yapıp tekrar girmeye çalıştığınızda bu şifre (.htaccess -siyah konsoldan aldığınız-) sorulacaktır. Bu özelliği kaldırmak için. FTP ile kendi server’ımıza ulaşmamız lazım. Bunun için ben Filezilla kullanıyorum. IP adresi ve şifrenizi girin diğer ayarların aşağıdaki resimde olduğu gibi olmasını sağlayın. Giriş yaptıktan sonra onaylamak için uyarı çıkacaktır. Kabul edin.
 
-![](https://storage.googleapis.com/omerify/uploads/2021/01/digitalocean-filezilla-ftp-ayar1.png)
+![](https://omerify.github.io/blog/assets/img/2014/05/digitalocean-filezilla-ftp-ayar1.png)
 
 Gereken ayarı değiştirmek için aşağıdaki dosya yolunu takip edin. (Notepad++ gibi bir program yardımıyla açıp düzenleyebilirsiniz.)
 
