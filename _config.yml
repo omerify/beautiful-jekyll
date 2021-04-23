@@ -45,18 +45,18 @@ social-network-links:
   facebook: omerify
   github: omerify
   twitter: omerify
-#  patreon: DeanAttali
+#  patreon: 
   youtube: c/omerify
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: omerify
 #  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
+#  stackoverflow: "15301937/omerify"
+#  snapchat: omerify
   instagram: omerify
 #  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
+#  telephone: +1415999888856565656
+#  steam: omerify
   twitch: omerify
 #  yelp: yourname
 #  telegram: yourname
@@ -67,7 +67,7 @@ social-network-links:
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: Ömer Serdar Ören kişisel websitesi RSS beslemesi.
 
 # --- General options --- #
 
