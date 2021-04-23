@@ -17,7 +17,7 @@ tags:
 
 Eğer yeteri kadar azminiz, yazılım veya donanım konusunda bir şeyler üretmeye merakınız varsa, Raspberry Pi sizin için biçilmiş kaftan. Her yaştan ve meslekten insana hitap ediyor.
 
-![](https://storage.googleapis.com/omerify/uploads/2021/01/raspberry-pi-RPi-Logo-Stacked-Reg-SCREEN.png)
+![](https://omerify.github.io/blog/assets/img/2021/01/raspberry-pi-RPi-Logo-Stacked-Reg-SCREEN.png)
 
 Tüketim çılgınlığının verdiği huzursuzluk yüzünden amatör bir ruhla kendin yap (**DIY**) kültüründen nasiplenmek amacıyla yaklaşık iki sene önce çok isteyerek aldığım **Raspberry Pi 3 Model B** cihazını, ilk karşılaşmamızdan sonra tozlu raflara kaldırdım ve eski alışkanlıklar yüzünden de uzun bir süre yüzüne dahi bakamadım.
 

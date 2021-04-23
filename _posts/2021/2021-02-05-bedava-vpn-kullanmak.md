@@ -21,9 +21,9 @@ tags:
 
 Size özel IP adresine sahip sunucularda 5 dakikada VPN kurarak dünya çapında bir çok noktadan çıkış kapısı açabilir ve istediğiniz sitelere erişim sağlayabilirsiniz. Üstelik bu hizmete oldukça ucuz veya bedava sahip olabilirsiniz.
 
-<figure><img src="https://storage.googleapis.com/omerify/uploads/2021/02/omerify-Ekran-Resmi-outline-vpn-server-masaustu.png"/></figure> 
+<figure><img src="https://omerify.github.io/blog/assets/img/2021/02/omerify-Ekran-Resmi-outline-vpn-server-masaustu.png"/></figure> 
 
-Twitter&#8217;ın Soylu ve Bahçeli&#8217;ye engel koymasından sonra internet yasakları yeniden gündeme geldi. Ben de **VPN** _(özel sanal ağ)_ servislerine göz gezdirmeye başladım. Hazır VPN servislerinin IP adresleri belli olduğu için engellemesinin kolay olduğunu biliyoruz. Yani aylık bir miktar ödeyerek size verilen hizmete ulaşmanız bile kolaylıkla engellenebiliyor. Bunun tek çaresi ise _kendi sunucunuzdan yararlanarak bir VPN bağlantı sağlamak._ **Kendinize özel bu IP adresiyle dünya çapında bir çok noktadan çıkış kapısı açabilir ve istediğiniz sitelere erişim sağlayabilirsiniz.** 
+Twitter&#8217;ın Soylu ve Bahçeli&#8217;ye engel koymasından sonra internet yasakları yeniden gündeme geldi. Ben de **VPN** _(özel sanal ağ)_ servislerine göz gezdirmeye başladım. Hazır VPN servislerinin IP adresleri belli olduğu için engellemesinin kolay olduğunu biliyoruz. Yani aylık bir miktar ödeyerek size verilen hizmete ulaşmanız bile kolaylıkla engellenebiliyor. Bunun tek çaresi ise _kendi sunucunuzdan yararlanarak bir VPN bağlantı sağlamak._ **Kendinize özel bu IP adresiyle dünya çapında bir çok noktadan çıkış kapısı açabilir ve istediğiniz sitelere erişim sağlayabilirsiniz.**
 
 Aslında bu hizmetin amacı kurumsal firmalara ekstra bir güvenlik katmanı sağlamak olsa da günümüzde hükümetler işlerine gelmeyen siteleri engellemekten tereddüt etmiyor. Son kullanıcılarda bu seçeneği oldukça sıklıkla kullanıyor.
 
@@ -63,6 +63,6 @@ Açık kaynak Outline VPN yazılımını indirmek için: <a href="https://getout
   * Bu arada her defasında tekrar mı sunucu kuracağım diye endişelenmeyin. Bir kaç defa yaptığınızda alışacaksınız ve ne kadar basit olduğunu göreceksiniz. Yazılım üzerinde zaten DigitalOcean kurulumu oldukça basit. Sunucuyu silerken dikkat etmeniz gereken nokta Outline yazılımı üzerinden değil, Hizmet aldığınız site üzerinde sunucuyu (delete, destroy vs.) silmeniz gerekiyor.
   * Eğer VPN bağlantınızın daha hızlı olmasını istiyorsanız Avrupa&#8217;daki lokasyonları seçmeniz mantıklı olacaktır. Mesafeden dolayı ABD merkezli sunucular Avrupa&#8217;ya kıyasla daha yavaştır.
   * VPN kurulumunu yaptıktan sonra kullanmanız gereken anahtarı (**key**) yabancılara vermeyin. İnternette kamuya açık bir şekilde paylaşmayın. Çok iyi tanıdığınız kişilerden başkasına vermeyin.
-  * **Bir servisi kullanıp bedava hakkınızı tükettikten sonra diğerine üye olun.** Hepsine aynı anda üye olmayın. Çünkü bazı sitelerin üye olduktan sonra bedava kredilerin kullanım süresi var. 
+  * **Bir servisi kullanıp bedava hakkınızı tükettikten sonra diğerine üye olun.** Hepsine aynı anda üye olmayın. Çünkü bazı sitelerin üye olduktan sonra bedava kredilerin kullanım süresi var.
   * Bazı siteler sizden bedava kullanım için bir miktar (5 veya 10 dolar) yükleme yapmanızı isteyebilir. 50 dolar bedava kullanım için oldukça makul bir teklif. Kabul etmek sizin elinizde.
   * 5 dolarlık bir VPN server işinizi görecektir. Çoğu kullanıcı için daha pahalı olanları seçmenize gerek yok. Böylece bedava kullanım süreleriniz de artacaktır. Süre kısıtlaması olmadan 25 dolarlık bir krediyle 5 ay boyunca bedava VPN kullanmak mümkün.
