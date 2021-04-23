@@ -12,4 +12,4 @@ tags:
   - resim
 format: image
 ---
-![Canı sıkılan insan ne yapar](https://storage.googleapis.com/omerify/uploads/2021/01/cani-sikilan-insan-ne-yapar-1.jpg "Canı sıkılan insan ne yapar")
+![Canı sıkılan insan ne yapar](https://omerify.github.io/blog/assets/img/2012/07/cani-sikilan-insan-ne-yapar-1.jpg "Canı sıkılan insan ne yapar")
