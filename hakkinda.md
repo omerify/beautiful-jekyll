@@ -6,7 +6,7 @@ permalink: /hakkinda/
 ---
 
 <p align="center">
-  <img width="200" height="200" src="https://storage.googleapis.com/omerify/uploads/2021/02/omer-profile-photo_400x400.jpg">
+  <img width="200" height="200" src="https://omerify.github.io/blog/assets/img/logo/omer-profil-foto-400x400.jpg">
 </p>
 omerify.com bir blog sitesi olup kişisel paylaşımlardan oluşmaktadır.
 
