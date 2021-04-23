@@ -3,11 +3,10 @@ title: İletişim
 date: 2021-01-14T15:36:19+03:00
 author: omerify
 layout: page
-guid: https://blog.omerify.com/iletisim
 permalink: /iletisim/
 ---
 
-İletişim için **omerify@protonmail.com** eposta adresini kullanabilirsiniz.
+İletişim için <omerify@protonmail.com> eposta adresini kullanabilirsiniz.
 
 Takip için ise;
 
