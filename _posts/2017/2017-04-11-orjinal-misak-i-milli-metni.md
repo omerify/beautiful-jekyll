@@ -17,12 +17,12 @@ tags:
 ---
 Orijinal Metni, Tercümesi ve Günümüz Türkçesi ile Misak-ı Milli metni.
 
-![](https://omerify.github.io/blog/assets/img/2021/01/orjinal-misak-i-milli-metni-1.jpeg)
+![](https://omerify.github.io/blog/assets/img/2017/04/orjinal-misak-i-milli-metni-1.jpeg)
 
-![](https://omerify.github.io/blog/assets/img/2021/01/orjinal-misak-i-milli-metni-2.jpeg)
+![](https://omerify.github.io/blog/assets/img/2017/04/orjinal-misak-i-milli-metni-2.jpeg)
 
-![](https://omerify.github.io/blog/assets/img/2021/01/orjinal-misak-i-milli-metni-3.jpeg)
+![](https://omerify.github.io/blog/assets/img/2017/04/orjinal-misak-i-milli-metni-3.jpeg)
 
-![](https://omerify.github.io/blog/assets/img/2021/01/orjinal-misak-i-milli-metni-turkce.jpeg)
+![](https://omerify.github.io/blog/assets/img/2017/04/orjinal-misak-i-milli-metni-turkce.jpeg)
 
 Kaynak: <a href="https://twitter.com/devletarsivleri/status/788005540681113600" target="_blank" rel="noreferrer noopener nofollow">https://twitter.com/devletarsivleri/status/788005540681113600</a>
