@@ -14,7 +14,7 @@ tags:
   - medya
 ---
 
-![](https://omerify.github.io/blog/assets/img/2021/01/turkiye-kavsak-noktasinda-turkey-at-crossroad.jpg)
+![](https://omerify.github.io/blog/assets/img/2016/01/turkiye-kavsak-noktasinda-turkey-at-crossroad.jpg)
 
 <blockquote>
   <p>
