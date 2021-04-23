@@ -16,7 +16,7 @@ tags:
   - vps
 ---
 
-<figure><img src="https://storage.googleapis.com/omerify/uploads/2021/02/ekran-resmi-openlitespeed-web-server-anasayfa-web-gorunumu.JPG" /><figcaption><a href="https://openlitespeed.org/" target="_blank" rel="noreferrer noopener nofollow">openlitespeed.org</a></figcaption></figure> 
+<figure><img src="https://omerify.github.io/blog/assets/img/2021/02/ekran-resmi-openlitespeed-web-server-anasayfa-web-gorunumu.JPG" /><figcaption><a href="https://openlitespeed.org/" target="_blank" rel="noreferrer noopener nofollow">openlitespeed.org</a></figcaption></figure>
 
 Son yıllarda **Openlitespeed** web sunucusu <a href="https://openlitespeed.org/benchmarks/wp-http2/" target="_blank" rel="noreferrer noopener nofollow">benchmark</a> sonuçlarıyla wordpress severlerin yeni gözdesi haline geldi. Ucuz ve kısıtlı imkanlarla blogunu kendi VPS&#8217;lerinde sunmak için oldukça etkili. Ayrıca açık kaynaklı oluşuyla artan bir kullanıcı kitlesine sahip. Ben de bu blogu <a href="https://m.do.co/c/24f61f55683d" target="_blank" rel="noreferrer noopener">DigitalOcean</a> üzerinde **openlitespeed** kullanarak sizlere sunuyorum.
 
@@ -41,9 +41,9 @@ Bu yazıda en basit haliyle **Ubuntu 20.04** üzerine **OpenLiteSpeed** sunucu k
 
 <hr />
 
-#### 1- Herhangi bir firmadan VPS kiralayarak başlayabilirsiniz. 
+#### 1- Herhangi bir firmadan VPS kiralayarak başlayabilirsiniz.
 
-Daha önce yazdığım gibi hızı ve kalitesi nedeniyle sunucu kurulumu için <a href="https://upcloud.com/signup/?promo=5P62V4" target="_blank" rel="noreferrer noopener">UpCloud</a> firmasını kullanıyorum. Ama <a href="https://m.do.co/c/24f61f55683d" target="_blank" rel="noreferrer noopener">DigitalOcean</a> gibi birçok <a href="https://openlitespeed.org/#install" target="_blank" rel="noreferrer noopener nofollow">firma</a> bu işi bir tıkla yapmanızı sağlıyor. Eğer baştan gözünüz kesmiyorsa hiç başlamayın derim. 
+Daha önce yazdığım gibi hızı ve kalitesi nedeniyle sunucu kurulumu için <a href="https://upcloud.com/signup/?promo=5P62V4" target="_blank" rel="noreferrer noopener">UpCloud</a> firmasını kullanıyorum. Ama <a href="https://m.do.co/c/24f61f55683d" target="_blank" rel="noreferrer noopener">DigitalOcean</a> gibi birçok <a href="https://openlitespeed.org/#install" target="_blank" rel="noreferrer noopener nofollow">firma</a> bu işi bir tıkla yapmanızı sağlıyor. Eğer baştan gözünüz kesmiyorsa hiç başlamayın derim.
 
 Sunucu kurulup ayağa kalktıktan sonra terminale aşağıdaki iki komutu yazarak tüm sistemi güncelleyin.
 
@@ -108,7 +108,7 @@ Eğer aşağıdaki yazıyla karşılaşırsanız buraya kadar her şey tamam dem
 <pre><code>Administrator's username/password is updated successfully!</code></pre>
 
 
-![](https://storage.googleapis.com/omerify/uploads/2021/02/omerify-ols-openlitespeed-server-kurulum-1.JPG)
+<figure><img src="https://omerify.github.io/blog/assets/img/2021/02/omerify-ols-openlitespeed-server-kurulum-1.JPG" /></figure>
   <caption>Buraya kadar olan kısmın terminal görüntüsü</caption>
 
 Artık nihayet sunucunuza web üzerinden erişim sağlama vakti geldi. Admin paneline aşağıdaki gibi IP adresiniz ve sonuna &#8216;:8088&#8217; ekleyerek girebilirsiniz.
@@ -117,17 +117,17 @@ Artık nihayet sunucunuza web üzerinden erişim sağlama vakti geldi. Admin pan
 
 Adrese gittiğinizde karşınıza aşağıdaki gibi bir sayfa çıkması lazım.
 
-![](https://storage.googleapis.com/omerify/uploads/2021/02/omerify-ekran-resmi-ols-openliteserver-hosgeldin-mesaji.JPG)
+<figure><img src="https://omerify.github.io/blog/assets/img/2021/02/omerify-ekran-resmi-ols-openliteserver-hosgeldin-mesaji.JPG" /></figure>
 
 Admin paneline gitmek için ise aşağıdaki adrese gitmeniz gerekiyor:
 
 <pre><code>http:&#47;&#47;&lt;sunucu-ip-adresi&gt;:7080 </code></pre>
 
-![](https://storage.googleapis.com/omerify/uploads/2021/02/omerify-openlitespeed-server-admin-giris-ekrani.JPG)
+<figure><img src="https://omerify.github.io/blog/assets/img/2021/02/omerify-openlitespeed-server-admin-giris-ekrani.JPG" /></figure>
 
 Daha önce belirlediğiniz kullanıcı adı ve şifreyle giriş yaptıktan sonra karşınıza admin panelinin ana sayfası çıkacak.
 
-![](https://storage.googleapis.com/omerify/uploads/2021/02/omerify-openlitespeed-server-admin-ilk-giris-ekrani.JPG)
+<figure><img src="https://omerify.github.io/blog/assets/img/2021/02/omerify-openlitespeed-server-admin-ilk-giris-ekrani.JPG" /></figure>
 
 Bu bölüme kadar her şey tamamsa bir sonraki bölüme geçebilirsiniz.
 
@@ -139,19 +139,19 @@ Buraya kadar yaptıklarımızla herhangi biri kendi alan adıyla sadece sizin IP
 
 Sol kenar çubuğu menünüzdeki **_Listeners_**&#8216;e gidin ve ardından **_Actions_** altında **_View_** simgesini tıklayın.
 
-![](https://storage.googleapis.com/omerify/uploads/2021/02/omerify-openlitespeed-server-listeners-bolumu-1.JPG)
+<figure><img src="https://omerify.github.io/blog/assets/img/2021/02/omerify-openlitespeed-server-listeners-bolumu-1.JPG" /></figure>
 
 Sonra karşınıza çıkan sayfada ön tanımlı _**Virtual Host Mapping**_ bölümünde yine **_Action_** yazan yerin altındaki **_Edit_** simgesine tıklayın.
 
-![](https://storage.googleapis.com/omerify/uploads/2021/02/omerify-openlitespeed-server-listeners-bolumu-2.JPG)
+<figure><img src="https://omerify.github.io/blog/assets/img/2021/02/omerify-openlitespeed-server-listeners-bolumu-2.JPG" /></figure>
 
 Karşınıza çıkan sayfada **_Domains_** sekmesine kendi alan adınızı yazın. Diğer kısımlara dokunmayın. Ayrıca (?) olan yerlere tıklayarak açıklamaları okuyabilirsiniz.
 
-![](https://storage.googleapis.com/omerify/uploads/2021/02/omerify-openlitespeed-server-listeners-bolumu-5-2-domain-test.JPG)
+<figure><img src="https://omerify.github.io/blog/assets/img/2021/02/omerify-openlitespeed-server-listeners-bolumu-5-2-domain-test.JPG" /></figure>
 
 Alan adınızı yazdıktan sonra üstteki resimde okta gösterilen yerdeki **_Save_** simgesini tıklayın. Ve karşınıza **_Graceful Restart_** uyarısı çıkan bir mesaj çıkacak. Bunun için aşağıdaki görselde okla gösterilen yeşil butona tıklamanız yeterli.
 
-![](https://storage.googleapis.com/omerify/uploads/2021/02/omerify-openlitespeed-server-listeners-bolumu-6-domain-graceful-restart.JPG) 
+<figure><img src="https://omerify.github.io/blog/assets/img/2021/02/omerify-openlitespeed-server-listeners-bolumu-6-domain-graceful-restart.JPG" /></figure>
 
 Bu noktada OpenLiteSpeed ​​sunucusunu bir bulut sunucuya kurduk. Ancak site yine de 8088 numaralı bağlantı noktasını kullanıyor ve güvenli olmayan HTTP kullanıyor. SSL sertifikaları almak ve HTTPS&#8217;yi etkinleştirmek için bir sonraki bölüme geçebilirsiniz.
 
@@ -177,7 +177,7 @@ Ardından aşağıdaki komutu kullanarak sertifikaları alın. **<Alan-adınız>
 
 Girdiğiniz bu komut, sertifikayı ayarlamanıza yardımcı olacak birkaç soru sorarak etkileşimli bir yükleme komut dosyası başlatır. Sorulara uygun cevaplar yazmanız gerekecek. Ayrıca sertifika kurulumu için e-posta adresi vermeniz gerekiyor. Tarihi geçmeden önce yenilemek için falan uyarı gönderiyorlar.
 
-![](https://storage.googleapis.com/omerify/uploads/2021/02/omerify-openlitespeed-server-lets-encrypt-ssl-sertifika-alimi.JPG)
+<figure><img src="https://omerify.github.io/blog/assets/img/2021/02/omerify-openlitespeed-server-lets-encrypt-ssl-sertifika-alimi.JPG" /></figure>
 
 Buraya kadar olan kısım tamamsa admin paneli için HTTPS sertifikasını etkinleştirmeye geçebiliriz.
 
@@ -187,11 +187,11 @@ Buraya kadar olan kısım tamamsa admin paneli için HTTPS sertifikasını etkin
 
 Kontrol panelinize giriş yapın. Sol menüdeki _**WebAdmin Settings**_ ardından **_Listeners_** sekmesini tıklayın. Ardından **_Actions_** yazısının altındaki **_View_** simgesini tıklayın.
 
-<figure>![](https://storage.googleapis.com/omerify/uploads/2021/02/omerify-openlitespeed-server-webadmin-ssl-aktif-yapma.JPG)</figure> 
+<figure><img src="https://omerify.github.io/blog/assets/img/2021/02/omerify-openlitespeed-server-webadmin-ssl-aktif-yapma.JPG" /></figure>
 
 Ardından, **Listeners** ayarlarında iken **SSL** sekmesine gidin ve ilk satırdaki _**SSL Private Key & Certificate**_ bölümünde sağda **_Edit_** simgesini tıklayın.
 
-![](https://storage.googleapis.com/omerify/uploads/2021/02/omerify-openlitespeed-server-webadmin-ssl-aktif-yapma-2.JPG)
+<figure><img src="https://omerify.github.io/blog/assets/img/2021/02/omerify-openlitespeed-server-webadmin-ssl-aktif-yapma-2.JPG" /></figure>
 
 Let&#8217;s Encrypt&#8217;den aldığımız sertifikaları bu alanlara ekleyeceğiz. Bunun için aşağıdaki resimde olduğu gibi her satıra gelen sertifika yollarını doldurun.
 
@@ -206,8 +206,7 @@ Let&#8217;s Encrypt&#8217;den aldığımız sertifikaları bu alanlara ekleyece�
     `/etc/letsencrypt/live/<alan-adınız>/fullchain.pem`
 
 
-
-![](https://storage.googleapis.com/omerify/uploads/2021/02/omerify-openlitespeed-server-webadmin-ssl-aktif-yapma-3.JPG)
+<figure><img src="https://omerify.github.io/blog/assets/img/2021/02/omerify-openlitespeed-server-webadmin-ssl-aktif-yapma-3.JPG" /></figure>
 
 Her şey ayarlandıktan sonra, sağdaki **_Save_** simgesine tıklayarak yeni ayarları kaydedin ve hemen üstteki yeşil düğmeyle _**Graceful Restart**_ yapın.
 
@@ -225,11 +224,11 @@ Arka planda sunucu kurulumunu hallettik. Fakat son kullanıcı sitenize girmek i
 
 Bunun içinde bir üsteki adımlara benzer ama farklı yerlerde küçük bir ayar daha yapmamız gerekir. Kontrol panelinizin sol kısmındaki **_Listeners_** sekmesini tıklayın.
 
-![](https://storage.googleapis.com/omerify/uploads/2021/02/omerify-openlitespeed-server-listeners-bolumu-1.JPG)
+<figure><img src="https://omerify.github.io/blog/assets/img/2021/02/omerify-openlitespeed-server-listeners-bolumu-1.JPG" /></figure>
 
 Ardından çıkan pencerede **_Address Settings_** kısmındaki **_Edit_** simgesine tıklayın.
 
-![](https://storage.googleapis.com/omerify/uploads/2021/02/openlitespeed-default-listener-general.jpg)
+<figure><img src="https://omerify.github.io/blog/assets/img/2021/02/openlitespeed-default-listener-general.jpg" /></figure>
 
 Çıkan ayarları aşağıdaki gibi değiştirin
 
@@ -238,11 +237,11 @@ Ardından çıkan pencerede **_Address Settings_** kısmındaki **_Edit_** simge
 
 Ardından sağ taraftaki **_Save_** simgesine tıklayın ve yaptığını ayarları kaydedin. Sonra da yeşil kutuya tıkayın ve **_Graceful Restart_** yapın.
 
-![](https://storage.googleapis.com/omerify/uploads/2021/02/omerify-openlitespeed-server-listeners-web-ssl-aktif-yapma-1.JPG)
+<figure><img src="https://omerify.github.io/blog/assets/img/2021/02/omerify-openlitespeed-server-listeners-web-ssl-aktif-yapma-1.JPG" /></figure>
 
 Aynı sayfada SSL sekmesini seçin ve bir önceki adımda anlattığım gibi sertifika bilgilerini girin.
 
-![](https://storage.googleapis.com/omerify/uploads/2021/02/omerify-openlitespeed-server-webadmin-ssl-aktif-yapma-5.JPG)
+<figure><img src="https://omerify.github.io/blog/assets/img/2021/02/omerify-openlitespeed-server-webadmin-ssl-aktif-yapma-5.JPG" /></figure>
 
 <ul>
   <li>
@@ -262,11 +261,11 @@ Aynı sayfada SSL sekmesini seçin ve bir önceki adımda anlattığım gibi ser
   </li>
 </ul>
 
-![](https://storage.googleapis.com/omerify/uploads/2021/02/omerify-openlitespeed-server-webadmin-ssl-aktif-yapma-6.JPG)
+<figure><img src="https://omerify.github.io/blog/assets/img/2021/02/omerify-openlitespeed-server-webadmin-ssl-aktif-yapma-6.JPG" /></figure>
 
 Üsteki sertifika bilgilerini doğru girdikten sonra sonra bir defa **_Graceful Restart_** atın. Eğer her şeyi doğru yaptıysanız alan adınızı adres satırına yazdığınızda aşağıdaki gibi bir sayfayla karşılamanız lazım.
 
-![](https://storage.googleapis.com/omerify/uploads/2021/02/omerify-openlitespeed-server-kurulum-basarili.JPG)
+<figure><img src="https://omerify.github.io/blog/assets/img/2021/02/omerify-openlitespeed-server-kurulum-basarili.JPG" /></figure>
 
 Artık web sitemizi OpenLiteSpeed kullanarak hazır hale getirdik.
 
