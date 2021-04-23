@@ -24,13 +24,13 @@ Sanırım **iPhone** şu an için piyasanın en iyi telefonu. Sunduğu yenilikle
 
 **Online Apple Store**’da almak istediğiniz ürünü seçtikten sonra ödeme sayfasına giriyor ve burada talimatlara uyarak **Kredi Kartı** ya da **Havale/EFT** ödeme seçeneğini seçebiliyorsunuz. Ben indirimi nedeniyle EFT seçeneğini kullandım ve macera başladı. Siparişi **31 Mart** gece verdim. Hemen arkasında aşağıdaki gibi bir e-posta geldi.
 
-![](https://storage.googleapis.com/omerify/uploads/2021/01/ekran-resmi-online-apple-store-odeme-bilgi.png)
+![](https://omerify.github.io/blog/assets/img/2021/01/ekran-resmi-online-apple-store-odeme-bilgi.png)
 
 Yukarıdaki ekran resminde göreceğiniz gibi her şey yeterince açık ve yapmanız gerekenleri basit bir dille anlatıyorlar. Burada belirtmek istediğim önemli nokta şu ki: Havale ya da EFT yaparken açıklama kısmına **SADECE** ödeme referans numarası olarak gönderilen **kodu** girmeniz gerekiyor. Aksi takdirde paranızın işlenmesi zaman alabiliyor.
 
 Ben bu işlemi **1 Nisan Çarşamba** günü sabaha karşı 02.00 sularında (EFT yaptığım banka Garanti Bankasıydı) yaptım. Ödemenin onaylanması **2 Nisan Perşembe** günü 15.00 gibi gerçekleşti ve aynı gün kargoya verildi.
 
-![](https://storage.googleapis.com/omerify/uploads/2021/01/ekran-resmi-apple-online-stpre-iphone-siparis-onay.png)
+![](https://omerify.github.io/blog/assets/img/2021/01/ekran-resmi-apple-online-stpre-iphone-siparis-onay.png)
 
 Ve tahmin edebileceğiniz gibi **3 Nisan Cuma** günü öğleden sonra cihaz elime ulaştı. Bununla beraber sürprizler başladı. Cihazı ile aldığımda kullanabilmem için cihazı etkinleştirmem gerekiyordu. Etkinleştirmek için ise sim kartın takılı olması gerekiyordu. Bende telefoncuya gittim ve mikro sim kartımı nano sim karta kesim yöntemiyle çevirdim. Sim kartımı taktım ve telefonu etkinleştirdim. Evdeyken çoğunlukla **Wi-Fi** kullanarak internete giriyordum ve **hücresel veriyi** kullanmak pek aklıma gelmedi. Bir kaç saat sonra **hücresel veriyi** test etmek için iPhone’un wi-fi bağlantısını kapattım ve hayal kırıklığı kendini göstermeye başladı. Bağlantı gayet hızlıyken bir anda sıfırlanıyor. Daha sonra tekrar uçuşa geçiyor ve aradan geçen bir kaç saniyeden sonra tekrar sıfırlanıyordu. Ve bu olay ertesi günde devam etti. Belki kestirdiğim sim kart nedeniyle oluyordur diye sıfır kilometre nano sim kart aldım.
 
@@ -43,11 +43,11 @@ Nihayet **6 Nisan Pazartesi** günü **Apple Destek**’i arayarak bu soruna bir
 
 Ben ise çoktan seçimimi yapmıştım ve **iPhone**’u **iade etmeye** karar vermiştim. O konuşmadan sonra **Apple Store Online** **sipariş sayfası**ndan iade işlemini başlattım.
 
-![](https://storage.googleapis.com/omerify/uploads/2021/01/ekran-resmi-online-apple-store-iade.png)
+![](https://omerify.github.io/blog/assets/img/2021/01/ekran-resmi-online-apple-store-iade.png)
 
 Aslında başlatamadım. Çünkü iade et butonuna basınca **Apple’ın Müşteri Hizmetleri** numarası çıkıyor ve iade işlemi için aramam gerektiği yazıyordu. Bende aynen öyle yaptım. Sağolsunlar yardımcı oldular ve iade işlemi için _2 iş günü_ içinde kargo firması tarafından randevu için aranacağım söylendi. Ben bu işlemi yaptığımda **6 Nisan Pazartesi**’ydi. Kargo firması **8 Nisan Çarşamba** günü arada ve ertesi gün yani **9 Nisan Perşembe** günü için randevulaştık. **10 Nisan Cuma** günü gönderdiğim cihaz **Apple** tarafından geri alındı.
 
-![](https://storage.googleapis.com/omerify/uploads/2021/01/ekran-resmi-online-apple-store-iade-onay.png)
+![](https://omerify.github.io/blog/assets/img/2021/01/ekran-resmi-online-apple-store-iade-onay.png)
 
 Yukarıdaki mesajda yazılı olduğu gibi tam bir hafta sonra yani **17 Nisan Cuma** günü gönderdiğim ücret tastamam iade edildi. Benim için sorunlu bir cihaz olmuştu ama sorunsuz bir alışveriş ile her şey olması gerektiği gibiydi. Hatta bazı şeyleri alırsınız da iade edersiniz ve ¨_Bi daha mı… Tövbe!_¨ dersiniz ya işte burada bunu **söylemiyorsunuz.**
 
