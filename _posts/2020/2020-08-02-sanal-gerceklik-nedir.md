@@ -19,7 +19,7 @@ tags:
 
 # Sanal gerçeklik (VR), artırılmış gerçeklik (AR), karma gerçeklik (MR), zengin gerçeklik ve akıllı gözlük terimler sözlüğü.
 
-![](https://storage.googleapis.com/omerify/uploads/2021/02/omerify-oculus-quest-2-vr-gozluk-sanal-gerceklik-basligi-IMG_20201129_154223.jpg)
+![](https://omerify.github.io/blog/assets/img/2021/02/omerify-oculus-quest-2-vr-gozluk-sanal-gerceklik-basligi-IMG_20201129_154223.jpg)
 
 Akşam haberlerine bakarsak **2020** yılı ölümcül salgınlarla, ekonomik krizlerle, çekirge istilalarıyla veya doğal afetlerle dolu gelebilir. Ama işin teknolojik yönü bambaşka ve gelecekte 2020 yılı dendiğinden bence **teknolojik dönüşümün başladığı**, **yapay zeka**, **makine öğrenimi**, **sanal gerçeklik**, **artırılmış gerçeklik** gibi bir çok yeni nesil teknolojilerinin **filiz vermeye başladığı yıl olarak anılacak.**
 
