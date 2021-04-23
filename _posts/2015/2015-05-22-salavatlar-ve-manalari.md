@@ -17,7 +17,7 @@ tags:
   - selam
 ---
 
-![Mescid-i Nebevî](https://storage.googleapis.com/omerify/uploads/2021/01/omerify-medine-mescidi-nebi-IMG_1254.JPG "Mescid-i Nebevî")
+![Mescid-i Nebevî](https://omerify.github.io/blog/assets/img/2021/01/omerify-medine-mescidi-nebi-IMG_1254.JPG "Mescid-i Nebevî")
 
 <mark>Aleyhisselam  
 Manası: Allahın selamı, onun üzerine olsun.</mark>
