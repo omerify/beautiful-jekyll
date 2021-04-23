@@ -135,7 +135,7 @@ footer-link-col: "#404040"
 google_analytics: "UA-120569993-1"
 
 # Fill in your Cloudflare Analytics beacon token to track your website using Cloudflare Analytics
-cloudflare_analytics: "14e3822d3c094983b6a4964cefb97596"
+cloudflare_analytics: "172838076cf04d96b5185c0f48793c20"
 
 # Google Tag Manager ID
 #gtm: ""
