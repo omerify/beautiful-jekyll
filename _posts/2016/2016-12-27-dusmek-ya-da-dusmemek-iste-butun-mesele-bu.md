@@ -11,4 +11,4 @@ tags:
   - kar
 ---
 
-![](https://omerify.github.io/blog/assets/img/2021/01/kar-dusmek-kaza.gif)
+![](https://omerify.github.io/blog/assets/img/2016/12/kar-dusmek-kaza.gif)
