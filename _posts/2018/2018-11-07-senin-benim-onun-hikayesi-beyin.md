@@ -13,7 +13,7 @@ tags:
   - kitap
 ---
 
- ![](https://omerify.github.io/blog/assets/img/2021/01/david-eagleman-kitap-beyin-img_1866.jpg)
+ ![](https://omerify.github.io/blog/assets/img/2018/11/david-eagleman-kitap-beyin-img_1866.jpg)
 
 **David Eagleman**‘ın **Incognito** kitabını okuduktan sonra bir nöroloğun ‘**Beyin**‘ adına sahip kitabını da okumalıyım diye düşündüm. Belli ki iyi de yapmışım. Aslında _Beyin_ kitabının <a href="https://www.pbs.org/show/brain-david-eagleman/" target="_blank" rel="noreferrer noopener nofollow"><strong><em>belgeseli</em></strong></a> de var ve daha önce izlemiştim. Ama TV’de izlemenin etkisi -ne kadar önemli bir konu olursa olsun- eğlenceli şovdan öte gidemiyor ve etkisi kısıtlı oluyor.
 
