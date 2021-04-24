@@ -151,7 +151,7 @@ cloudflare_analytics: "172838076cf04d96b5185c0f48793c20"
 # --- Comments --- #
 
 # To use Disqus comments, sign up to https://disqus.com and fill in your Disqus shortname (NOT the userid)
-disqus: "omerify"
+#disqus: "omerify"
 
 # To use Facebook Comments, create a Facebook app and fill in the Facebook App ID
 #fb_comment_id: ""
