@@ -12,6 +12,7 @@ tags:
   - algoritmik dusunce
   - matematik
   - basari
+  - alinti
 ---
 
 El Harezmi, **logaritma** da denen matematiksel düşünce sisteminin babasıdır. Matematik, o ve onun çağında yetişenler tarafından asla İslam'dan kopartılmadı. Matematik İslami bir bilim dalı olarak okutulduğu için varlıkların arasındaki aklı yani Allah'ın sonsuz aklını görerek Müslümanları ilerletiyor ve teknolojik gelişmelerde ileri tutuyordu.
