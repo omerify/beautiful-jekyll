@@ -12,6 +12,7 @@ tags:
   - paranormal
   - saglik
   - kromozom
+  - alinti
 ---
 
 Ezoterik ve spritüel öğretmenler, asırlardır **"bizim bedenimizin lisan, kelimeler ve düşüncelerle programlanabileceğini"**biliyorlardı. İnsan DNA'sı, biyolojik bir internettir ve yapay olana kıyasla pek çok üstünlüğü vardır. Rusya'da ki bilimsel araştırmalar doğrudan veya dolaylı olarak pek çok spritüel konuya açıklama getirmiştir. Bunların arasında gelecekle ilgili bilgiler vermek, sezgiler, ilham, yakından, uzaktan ve ani olarak yapılan şifacılık uygulamaları, kendi kendini tedavi, olumlu olma teknikleri, özellikle spritüel guruların etrafındaki olağanüstü ışıklar/aura, zihnin hava durumu üzerindeki etkileri ve benzeri konular vardır.
