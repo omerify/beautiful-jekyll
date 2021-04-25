@@ -16,6 +16,7 @@ tags:
   - medineli haci osman akfirat
   - hadis
   - kuran
+  - alinti
 ---
 
 Bölgemizde son gelişmeler göz önüne alındığında geçen günlerde okuduğum bir haber aklıma geldi. **Okyanusum.com** sitesindeki bir habere göre **_Rahmetli Seyyid Hacı Osman Akfırat (Beykozlu) efendi_**den rivayet edilen masalı(?) oldukça ilgi çekici buldum ve paylaşmak istedim.
