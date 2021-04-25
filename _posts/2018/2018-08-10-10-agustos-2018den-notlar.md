@@ -8,7 +8,7 @@ categories:
   - Blog
 tags:
   - notlar
-  - seyir defteri
+  - seyir-defteri
 ---
 
 * **Bugünün en önemli konusu yine Dolar**. Gözümle görmesem inanmazdım ama 6.64 TL’yi gördüm. Yazıyı yayına aldığım sırada 6.5 TL civarındaydı. Telefonumdan bakarken resmen içim acıdı. Bu necip milletin emeklerinin canlı olarak sömürülüşünü izlerken utanmasam ağlayacaktım. Muhtemelen bir çok şirket batacak, enflasyon artacak, işsizlik artacak, alım gücü düşecek. Bu durumdan yararlananlar yine parası ve adamı olanlar olacak. Belki de eskiden olduğu gibi stokçuluk başlayacak, icralar, iflaslar, kredi borçları…. of… Umarım bu durumdan bizi yönetenler de gerekli dersi almıştır. Biliyorum, bunları hak etmesek başımıza gelmezdi… Millet olarak son pişmanlık fayda vermiyor. Gidecek bir yer yok, en azından benim yok, aynı gemideyiz ve imdi daha çok çalışma, daha çok üretme, daha çok tasarruf, daha çok fedakarlık, daha çok yerli ürüne destek ve sanırım en önemli olarak daha çok adalet ve dürüstlük zamanı…

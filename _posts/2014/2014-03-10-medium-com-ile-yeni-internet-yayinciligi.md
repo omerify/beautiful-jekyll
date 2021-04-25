@@ -8,7 +8,6 @@ categories:
   - Blog
 tags:
   - medium
-  - medium.com nedir
   - yazi
 ---
 

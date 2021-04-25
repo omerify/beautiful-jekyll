@@ -7,8 +7,8 @@ permalink: /2015/05/05/gunahsiz-olmeye-vesile-olan-zikir-bes-tevhid-zikri/
 categories:
   - Blog
 tags:
-  - bes tevhid zikri
-  - cubbeli ahmet hoca
+  - bes-tevhid-zikri
+  - cubbeli-ahmet-hoca
   - din
   - sohbet
 ---

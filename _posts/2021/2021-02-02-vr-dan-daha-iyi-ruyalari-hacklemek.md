@@ -7,13 +7,14 @@ permalink: /2021/02/02/vr-dan-daha-iyi-ruyalari-hacklemek/
 categories:
   - Blog
 tags:
-  - acik kaynak
+  - acik-kaynak
   - bilim
   - dormio
-  - dream lab
-  - giyilebilir cihaz
+  - dream-lab
+  - giyilebilir-cihaz
+  - iot
   - hack
-  - lusid ruya
+  - lusid-ruya
   - mit
   - ruya
   - uyku

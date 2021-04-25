@@ -7,14 +7,14 @@ permalink: /2014/04/10/beden-dili-ve-mentalizm/
 categories:
   - Blog
 tags:
-  - beden dili
+  - beden-dili
   - iletisim
   - jestler
   - mentalist
   - mentalizm
-  - mikro ifadeler
+  - mikro-ifadeler
   - mimikler
-  - sozsuz iletisim
+  - sozsuz-iletisim
 ---
 
 #### Hayatınızı değiştirecek basit ipuçları

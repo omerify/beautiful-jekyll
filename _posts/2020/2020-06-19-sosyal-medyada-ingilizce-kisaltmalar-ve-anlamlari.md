@@ -10,7 +10,7 @@ tags:
   - anlam
   - ingilizce
   - kisaltmalar
-  - sosyal medya
+  - sosyal-medya
 ---
 
 Sosyal medyada sıkça karşılaşılan İngilizce kısaltmalar ve anlamları ile ilgili eğlenceli ve bilgilendirici bir videoya denk geldim. Biraz kopyala yapıştır oldu ama idare edin artık. En kısa zamanda -ASAP- öğrendiğim diğer kısaltmaları da eklemeye devam edeceğim.

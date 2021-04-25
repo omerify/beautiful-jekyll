@@ -8,7 +8,7 @@ categories:
   - Blog
 tags:
   - hikaye
-  - tutumlu olmak
+  - tutumlu-olmak
   - tutumluluk
   - yazi
 ---

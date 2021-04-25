@@ -8,7 +8,7 @@ categories:
   - Blog
 tags:
   - notlar
-  - seyir defteri
+  - seyir-defteri
 ---
 
 * **Cumhurbaşkanı Erdoğan 100 günlük eylem planı’nı açıkladı.** Sonra okumayı umuyorum. (<a href="https://www.ntv.com.tr/turkiye/erdogan-100-gunluk-eylem-planini-acikladi,HH_SHWOrv02rW0J_feiD3A" target="_blank" rel="noreferrer noopener nofollow">NTV</a>)

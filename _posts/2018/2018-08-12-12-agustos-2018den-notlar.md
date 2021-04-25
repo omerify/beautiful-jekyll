@@ -8,7 +8,7 @@ categories:
   - Blog
 tags:
   - notlar
-  - seyir defteri
+  - seyir-defteri
 ---
   
 * **Google’ın yapay zekası Raspberry Pi üstünde çalışabilecek:** Elimde boş duran Raspberry Pi cihazımla ne yapacağımı buldum sanırım. Gelecek yapay zeka üzerine kurulucaksa bir şekilde yer almak gerek. Tabi bunun için **programlama**, **algoritma**, **Linux**, **Python** ve **TensorFlow** öğrenmem gerekecek. Bu yaştan sonra zor geliyor ama ilk adımı atalım gerisi de gelir inşâAllah. Belki denemelerimi ayrı bir blog yazısıyla paylaşabilirim. (<a href="https://www.dunyahalleri.com/googlein-yapay-zekasi-raspberry-pi-ustunde-calisabilecek/" target="_blank" rel="noreferrer noopener nofollow">DunyaHalleri</a>)

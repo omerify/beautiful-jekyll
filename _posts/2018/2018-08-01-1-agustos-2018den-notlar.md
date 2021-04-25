@@ -8,7 +8,7 @@ categories:
   - Blog
 tags:
   - notlar
-  - seyir defteri
+  - seyir-defteri
 ---
 
 * **PKK’lı hainler bir Astsubay’ımızın eşini ve 11 aylık yavrusunu şehit ettiler**. (<a href="https://www.ntv.com.tr/turkiye/sehit-anne-ve-bebegine-veda,SSp6wMCCukWUirgX0IU7lg" target="_blank" rel="noreferrer noopener nofollow">NTV Haber</a>) Cumhurbaşkanı Erdoğan idam için meclisten gelirse onaylarım dedi. İstedikleri şeyleri bir günde meclisten geçirmeyi biliyorlar. Milleti salak yerine koyuyor ama hesap sorma günü geldiğinde bunları unutmayacağımızı bilmeliler.

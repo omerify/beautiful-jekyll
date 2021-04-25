@@ -8,7 +8,7 @@ categories:
   - Blog
 tags:
   - notlar
-  - seyir defteri
+  - seyir-defteri
 ---
 
 * **Bugün en ilgi çekici konu ölüm oldu.** <a href="http://okyanusum.com/haber/oldukten-sonra-bedenimize-neler-oluyor-mezarda-ilk-gece-18/" target="_blank" rel="noreferrer noopener nofollow">Okyanusum.com</a> sitesinin haberine göre ölümden sonra insan bedenine olan şeyler sıralanmış. Her şey aslında kokuşmuş bir beden uğruna mı sorusuna sormadan edemedim.

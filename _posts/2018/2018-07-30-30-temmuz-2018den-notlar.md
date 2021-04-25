@@ -8,7 +8,7 @@ categories:
   - Blog
 tags:
   - notlar
-  - seyir defteri
+  - seyir-defteri
 ---
 
 * **Yapay zeka sadece gözlerinizi izleyerek kişiliğinizi tahmin edebilir:** Kişilik ve göz hareketleri arasındaki bağlantıyı ifade etmek için, oldukça gelişmiş öğrenme algoritmaları kullanılarak bir yapay zeka geliştirildi. Yapay zekanın beş önemli kişilik özelliğinden dördünü yüksek doğruluk oranıyla tahmin edebildiği ifade ediliyor. Bu özellikler: tutarsızlık, dışa dönüklük, uysallık ve güvenilirlik. (<a href="https://www.donanimhaber.com/diger-bilim-ve-teknoloji/haberleri/Yapay-zeka-sadece-gozlerinizi-izleyerek-kisiliginizi-tahmin-edebilir.htm" target="_blank" rel="noreferrer noopener nofollow">DonanımHaber</a>)

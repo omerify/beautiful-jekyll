@@ -9,7 +9,7 @@ categories:
 tags:
   - din
   - hadis
-  - mahmud esad cosan
+  - mahmud-esad-cosan
   - olum
   - video
 ---

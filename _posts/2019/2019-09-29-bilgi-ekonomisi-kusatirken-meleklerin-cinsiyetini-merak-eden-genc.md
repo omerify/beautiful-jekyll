@@ -7,9 +7,9 @@ permalink: /2019/09/29/bilgi-ekonomisi-kusatirken-meleklerin-cinsiyetini-merak-e
 categories:
   - Blog
 tags:
-  - bilgi ekonomisi
-  - dan tapscott
-  - erkan oz
+  - bilgi-ekonomisi
+  - dan-tapscott
+  - erkan-oz
   - teknoloji
   - ekonomi
 ---

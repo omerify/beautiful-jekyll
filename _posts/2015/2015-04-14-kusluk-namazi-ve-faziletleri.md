@@ -8,9 +8,7 @@ categories:
   - Blog
 tags:
   - din
-  - duha namazi
   - hadis
-  - kusluk namazi
   - namaz
   - yazi
 ---

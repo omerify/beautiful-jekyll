@@ -7,11 +7,11 @@ permalink: /2020/05/02/yasal-ve-bedava-film-izlemek-icin-en-iyi-websiteleri/
 categories:
   - Blog
 tags:
-  - film isimleri
-  - film siteleri
-  - dizi siteleri
-  - bedava film izleme
-  - bedava dizi izleme
+  - film-isimleri
+  - film-siteleri
+  - dizi-siteleri
+  - bedava-film-izleme
+  - bedava-dizi-izleme
   - bedava
 ---
 

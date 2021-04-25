@@ -9,7 +9,7 @@ categories:
 tags:
   - teknoloji
   - bilim
-  - dunya ekonomik forumu
+  - dunya-ekonomik-forumu
   - alinti
   - davos
 ---

@@ -8,7 +8,7 @@ categories:
   - Blog
 tags:
   - notlar
-  - seyir defteri
+  - seyir-defteri
 ---
 
 * **Bugün lansman günü olsa gerek. Meizu, yeni amiral gemisi telefonları Meizu 16 ve 16 Plus’ı tanıttı**. Ekrandan parmak izi kontrollü ve Snapdragon 845’li üst seviye bir telefon olmasına rağmen nispeten uygun fiyatlı. 6 GB RAM ve 128 GB depolama kapasiteli model: 439$. TR fiyatı belli değil tabiki.

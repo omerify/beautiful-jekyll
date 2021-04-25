@@ -8,7 +8,7 @@ categories:
   - Blog
 tags:
   - notlar
-  - seyir defteri
+  - seyir-defteri
 ---
 
 * Bugün, dünden ve bir önceki günden pek farklı değil. İnsanların gözü dolar kurlarında ve finans bültenlerinde. Sanki herkes ‘Tamam ama bundan sonra ne olacak?’ der gibi. Kimi daha fazla para kazanmak, kimi vatan millet, kimi şakşakçılık, kimi de ekmeğinin derdinde. Yine herkes politika ve vatanı kurtarma tezleri yazıyor. Bende kendi cehalet perdemi yırtabilseydim, kendime işe yarar bir kaç fikir çıkarabilirdim. **Belki de işin özeti aşağıdaki videoda gizli, konu farklı gibi duruyor ama tam olarak şu an yaşadığımız duruma ışık tutuyor kanaatindeyim!**

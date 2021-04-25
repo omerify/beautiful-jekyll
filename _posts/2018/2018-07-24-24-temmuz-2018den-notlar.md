@@ -8,7 +8,7 @@ categories:
   - Blog
 tags:
   - notlar
-  - seyir defteri
+  - seyir-defteri
 ---
 
 * **Bitcoin** yaklaşık iki ay sonra yeniden **8000 dolar**ı geçti. Sırf kayıtlara geçsin diye yazıyorum yine düşecek arkadaş. Birileri bence oyun oynuyor.

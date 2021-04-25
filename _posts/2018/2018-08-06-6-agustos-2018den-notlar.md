@@ -8,7 +8,7 @@ categories:
   - Blog
 tags:
   - notlar
-  - seyir defteri
+  - seyir-defteri
 ---
 
 * **Erdoğan’ın yastık altındaki dolar ve altınları çıkarın çağrısından bir kaç gün sonra dolar 5.15 TL’yi gördü, geçti, kim bilir nereye gidiyor…** Sürekli ekonomik bir savaşta olduğumuza değinen bir ülkenin Cumhurbaşkanı, milletin yastık altındaki dolar ve altınlarına adeta göz dikti. Yanlış hatırlamıyorsam dolar **3.0 TL**, **3.5 TL** ve **4.0 TL** olduğunda da aynı çağrıları yapan Erdoğan, ‘kur balonunu söndüreceğiz’ demişti. Dolar **5.0 TL**‘yi de geçti. Demek ki, bunun çözümü dolar, altın bozdurmak değil. Ekonomiden pek anlamıyorum ama, belki bunun çözümü üretimi teşvik etmek olabilir mi? Uzun vadede düşünürsek, katma değerli ürünler için yeni nesli şimdiden eğitmeye başlamak, mesela her mahallede **gelecek atölyeleri** kurup, gençlere keşfetme ve geleceği değiştirme içgüdüsü aşılamak olabilir mi? Raspberry Pi gibi nispeten ucuz (bizde bu bile ucuz değil) bilgisayarları çocuklara bedava dağıtmak olabilir mi? İçlerinden bir tanesi bir marka çıkarsa, harcanan tüm parayı ülkeye kazandırabilir.

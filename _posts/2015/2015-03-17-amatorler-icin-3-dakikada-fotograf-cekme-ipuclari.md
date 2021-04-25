@@ -7,7 +7,7 @@ permalink: /2015/03/17/amatorler-icin-3-dakikada-fotograf-cekme-ipuclari/
 categories:
   - Blog
 tags:
-  - fotograf cekme teknikleri
+  - fotograf-cekme-teknikleri
   - fotograf
   - resim
   - fotografcilik

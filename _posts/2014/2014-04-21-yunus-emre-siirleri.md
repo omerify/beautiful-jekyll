@@ -9,9 +9,9 @@ categories:
 tags:
   - siir
   - tasavvuf
-  - yunus emre
-  - yunus emre eserleri
-  - yunus emre siirleri
+  - yunus-emre
+  - yunus-emre-eserleri
+  - yunus-emre-siirleri
   - yazi
 ---
 

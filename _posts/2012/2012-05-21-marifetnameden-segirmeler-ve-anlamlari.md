@@ -7,11 +7,11 @@ permalink: /2012/05/21/marifetnameden-segirmeler-ve-anlamlari/
 categories:
   - Blog
 tags:
-  - ayak segirmesi
-  - bacak sesirmesi
-  - erzurumlu ibrahim hakki
-  - goz segirmesi
-  - kol segirmesi
+  - ayak-segirmesi
+  - bacak-sesirmesi
+  - erzurumlu-ibrahim-hakki
+  - goz-segirmesi
+  - kol-segirmesi
   - marifetname
   - saglik
   - segirmeler

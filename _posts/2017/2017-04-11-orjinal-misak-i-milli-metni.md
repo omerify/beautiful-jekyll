@@ -7,7 +7,7 @@ permalink: /2017/04/11/orjinal-misak-i-milli-metni/
 categories:
   - Blog
 tags:
-  - misak-ı milli
+  - misak-i-milli
   - osmanlica
   - savas
   - tarih

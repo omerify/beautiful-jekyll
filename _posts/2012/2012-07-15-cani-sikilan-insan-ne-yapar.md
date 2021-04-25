@@ -7,9 +7,8 @@ permalink: /2012/07/15/cani-sikilan-insan-ne-yapar/
 categories:
   - Blog
 tags:
-  - canim sikildi
+  - canim-sikildi
   - karalama
   - resim
-format: image
 ---
 ![Canı sıkılan insan ne yapar](https://omerify.github.io/blog/assets/img/2012/07/cani-sikilan-insan-ne-yapar-1.jpg "Canı sıkılan insan ne yapar")

@@ -8,7 +8,7 @@ categories:
   - Blog
 tags:
   - notlar
-  - seyir defteri
+  - seyir-defteri
 ---
 
 * **İslami hat sanatı ile ilgili süper bir kaynak (** <a href="https://ketebe.org/" target="_blank" rel="noreferrer noopener nofollow"><strong>https://ketebe.org/</strong></a> **) sitesi keşfettim ve tabir-i caizse kendimden geçtim.**

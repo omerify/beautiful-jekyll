@@ -8,7 +8,7 @@ categories:
   - Blog
 tags:
   - notlar
-  - seyir defteri
+  - seyir-defteri
 ---
 
 * **Mars’ta su bulundu.** Science dergisine konuşan bilim insanları, Mars’ın güney buzullarının yaklaşık bir buçuk kilometre altında, yaklaşık 20 kilometre boyunca uzanan bir yer altı gölü bulunduğunu ifade etti. (<a href="http://www.sciencemag.org/news/2018/07/liquid-water-spied-deep-below-polar-ice-cap-mars" target="_blank" rel="noreferrer noopener nofollow">ScienceMag</a>)

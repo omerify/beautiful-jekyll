@@ -8,7 +8,7 @@ categories:
   - Blog
 tags:
   - notlar
-  - seyir defteri
+  - seyir-defteri
 ---
 
 * **Türkiye’den de görünebilecek 21. yüzyılın en uzun Ay tutulması bu gece gerçekleşecek.** Dünya’mızın uydusu Ay, tam 1 saat 43 dakika boyunca **kızıl** bir renge bürünecek. Türkiye’de saat 20.13 gibi başlayacak ve gece 02.20’ye kadar devam edecek. Ay’ın kızılımsı bir hale büründüğü muhteşem görüntüsü ise en iyi 23.21’de görülebilecek. Ayrıca hatırlatmakta fayda görüyorum ki, Peygamber Efendimiz **Hz. Muhammed (S.A.V)** tutulma esnasında namaz kılardı. Bu namaza <a href="https://www.yenisafak.com/ay-tutulmasi-husuf-namazi-nasil-ne-zaman-kilinir-h-3386337" target="_blank" rel="noreferrer noopener nofollow"><strong>Hüsuf Namazı</strong></a> denir. Müslümanlar için hem bir sünneti yerine getirme şansı hem de oluşabilecek negatif etkilerden korunma nimetidir.

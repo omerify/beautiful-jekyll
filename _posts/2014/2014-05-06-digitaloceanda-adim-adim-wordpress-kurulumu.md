@@ -7,11 +7,11 @@ permalink: /2014/05/06/digitaloceanda-adim-adim-wordpress-kurulumu/
 categories:
   - Blog
 tags:
-  - digital ocean
+  - digital-ocean
   - kurulum
   - vps
   - wordpress
-  - nasil yapilir
+  - nasil-yapilir
 ---
 
 ### Güncelleme: 12.05.2016 Lütfen&nbsp;okuyun…

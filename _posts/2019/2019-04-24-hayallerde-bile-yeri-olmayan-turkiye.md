@@ -7,7 +7,7 @@ permalink: /2019/04/24/hayallerde-bile-yeri-olmayan-turkiye/
 categories:
   - Blog
 tags:
-  - 23 nisan
+  - 23-nisan
   - cocuk
   - haber
   - turkiye

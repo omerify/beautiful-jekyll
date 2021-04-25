@@ -8,7 +8,7 @@ categories:
   - Blog
 tags:
   - notlar
-  - seyir defteri
+  - seyir-defteri
 ---
 
 * **Beklenen büyük Marmara/İstanbul depremiyle alakalı bilgilendirici bir <a href="https://twitter.com/CYaltirak/status/1029443702371049472" target="_blank" rel="noreferrer noopener nofollow">tweet</a> gördüm.** “1509 depreminden bu yana 509 yıl, 1753 ten 264 yıl, 1776 depremlerinden 252 yıl geçti. Marmara’da kırılabilecek 4 segment Mw 7.2–7.6 büyüklüğünde deprem üretecek. Haritada G değerleri var. 0.2 g üzeri olan her yer yıkıcı, 0.3 g üzeri ağır yıkıcıdır.”

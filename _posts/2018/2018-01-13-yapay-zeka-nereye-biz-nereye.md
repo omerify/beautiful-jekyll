@@ -11,7 +11,7 @@ tags:
   - makine
   - teknoloji
   - toplum
-  - yapay zeka
+  - yapay-zeka
   - yazi
 ---
 

@@ -8,7 +8,7 @@ categories:
   - Blog
 tags:
   - notlar
-  - seyir defteri
+  - seyir-defteri
 ---
 
 * **İşte ben bunu anlamıyorum. Ülkenin 3 tarafı petrolle çevrili ama bizde nedense(?) petrol çıkmıyor:** Şırnak’ın Silopi ilçesinin tam karşısında, sınıra sadece birkaç kilometre mesafede yer alan **Peşhabur** bölgesindeki petrol sahasında açılan 5 kuyudan adeta petrol fışkırıyor. Günde 35 bin varil petrolün çıkarıldığı saha şimdiden bölgenin en büyük ikinci sahası olurken önümüzdeki günlerde iki kuyudan daha petrol çıkarma işlemenin başlanacağı belirtiliyor. (<a href="https://www.yenisafak.com/ekonomi/turkiyenin-dibinde-petrol-fiskiriyor-3386896" target="_blank" rel="noreferrer noopener nofollow">YeniŞafak)</a>

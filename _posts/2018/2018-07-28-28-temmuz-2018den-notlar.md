@@ -8,7 +8,7 @@ categories:
   - Blog
 tags:
   - notlar
-  - seyir defteri
+  - seyir-defteri
 ---
 
 * **Geçtiğimiz 40 bin yıldır**, Sibirya’daki donmuş kutup topraklarında bulunan ve yaşamsal bir faaliyet göstermeyen solucanlar, yeniden hayata döndüler ve beslenmeye başladılar. Tabiki bunu insanlar üzerinde gerçekleştirmenin yollarını arayacaklar. Ama kaçış yok. Her canlı ölümü tadacak. Kesin bilgi yayabilirsiniz. (<a href="http://www.webtekno.com/son-40-bin-yildir-donmus-halde-olan-soluncanlar-yeniden-canlandilar-h50538.html" target="_blank" rel="noreferrer noopener nofollow">webtekno</a>)

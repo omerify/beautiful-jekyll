@@ -9,13 +9,15 @@ categories:
 tags:
   - algoritma
   - bilgisayar
-  - bilgisayar terimleri
-  - derin ogrenme
-  - sinir aglari
+  - bilgisayar-terimleri
+  - derin-ogrenme
+  - sinir-aglari
   - sozluk
   - teknoloji
   - veri
-  - yapay zeka
+  - yapay-zeka
+  - yapay-zeka-ornekleri
+  - yapay-zeka-ne-demek
 ---
 
 Çoğumuz yapay zekayı basit olarak robotlarla insanlar arasındaki etkileşim olarak düşünüruz. Geleceği değiştireceği söylenen **yapay zeka** teknolojisi, “_robot-insan ilişkisi_” kavramının ötesine uzanan alt bileşenlerle çok yönlüdür. Ne yazık ki, henüz emekleme aşamasında olan bu teknoloji için ortaya çıkan kavramlar şimdiden karışmaya başladı. En azından benim için.

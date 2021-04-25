@@ -9,7 +9,7 @@ categories:
 tags:
   - algoritma
   - harezmi
-  - algoritmik dusunce
+  - algoritmik-dusunce
   - matematik
   - basari
   - alinti

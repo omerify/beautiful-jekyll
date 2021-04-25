@@ -7,10 +7,10 @@ permalink: /2015/04/16/lusid-ruya-nedir-nasil-gorulur/
 categories:
   - Blog
 tags:
-  - lucid dream
-  - lusid ruya
-  - seffaf ruya
-  - berrak ruya
+  - lucid-dream
+  - lusid-ruya
+  - seffaf-ruya
+  - berrak-ruya
   - ruya
   - uyku
 ---

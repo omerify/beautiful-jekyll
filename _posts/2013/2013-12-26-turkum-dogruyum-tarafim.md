@@ -7,7 +7,7 @@ permalink: /2013/12/26/turkum-dogruyum-tarafim/
 categories:
   - Blog
 tags:
-  - sosyal medya
+  - sosyal-medya
   - yazi
 ---
 

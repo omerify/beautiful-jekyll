@@ -8,7 +8,7 @@ categories:
   - Blog
 tags:
   - din
-  - medineli haci osman akfirat
+  - medineli-haci-osman-akfirat
   - siir
 ---
  

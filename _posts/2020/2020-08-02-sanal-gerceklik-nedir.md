@@ -8,13 +8,13 @@ categories:
   - Blog
 tags:
   - ar
-  - artirilmis gerceklik
-  - karma gerceklik
+  - artirilmis-gerceklik
+  - karma-gerceklik
   - mr
-  - sanal gerceklik
+  - sanal-gerceklik
   - sozluk
   - vr
-  - zengin gerceklik
+  - zengin-gerceklik
 ---
 
 # Sanal gerçeklik (VR), artırılmış gerçeklik (AR), karma gerçeklik (MR), zengin gerçeklik ve akıllı gözlük terimler sözlüğü.

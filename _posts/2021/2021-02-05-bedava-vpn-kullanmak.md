@@ -7,15 +7,15 @@ permalink: /2021/02/05/bedava-vpn-kullanmak/
 categories:
   - Blog
 tags:
-  - bedava vpn
-  - digital ocean
+  - bedava-vpn
+  - digitalocean
   - hosting
-  - indirim kodlari
-  - internet yasaklari
+  - indirim-kodlari
+  - internet-yasaklari
   - outline
-  - outline vpn
+  - outline-vpn
   - vpn
-  - vpn kurulumu
+  - vpn-kurulumu
   - vps
 ---
 

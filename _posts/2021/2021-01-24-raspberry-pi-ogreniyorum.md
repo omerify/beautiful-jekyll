@@ -9,10 +9,10 @@ categories:
 tags:
   - bilgisayar
   - diy
-  - kendin yap
-  - mikro bilgisayar
+  - kendin-yap
+  - mikro-bilgisayar
   - raspberry
-  - raspberry pi
+  - raspberry-pi
 ---
 
 Eğer yeteri kadar azminiz, yazılım veya donanım konusunda bir şeyler üretmeye merakınız varsa, Raspberry Pi sizin için biçilmiş kaftan. Her yaştan ve meslekten insana hitap ediyor.

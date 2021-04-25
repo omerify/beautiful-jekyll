@@ -8,7 +8,7 @@ categories:
   - Blog
 tags:
   - notlar
-  - seyir defteri
+  - seyir-defteri
 ---
 
 * **Alçak İsrail**, Gazze ambargosunu denizde inşa ettiği bariyerle güçlendiriyor. İsrail, askeri üssü ile Gazze deniz sınırını 200 metre uzunluğa sahip bariyerlerle çeviriyor. (<a href="https://www.ntv.com.tr/dunya/israilden-gazzede-deniz-sinirina-bariyer,gV0tJhtcsEurFaECayrzDA" target="_blank" rel="noreferrer noopener nofollow">NTV</a>)

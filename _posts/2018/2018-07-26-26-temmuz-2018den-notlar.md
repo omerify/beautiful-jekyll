@@ -8,7 +8,7 @@ categories:
   - Blog
 tags:
   - notlar
-  - seyir defteri
+  - seyir-defteri
 ---
 
 * **Afet ve Acil Durum Yönetimi Başkanlığı’nın (AFAD)** internet sitesinde yer alan bilgiye göre, saat 11.17’de **Kuşadası**‘na 24,6 kilometre mesafede Ege Denizi’nde **4,5 büyüklüğünde** yer sarsıntısı kaydedildi.

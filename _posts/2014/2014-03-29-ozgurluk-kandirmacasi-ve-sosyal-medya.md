@@ -9,7 +9,7 @@ categories:
 tags:
   - gercek
   - ozgurluk
-  - sosyal medya
+  - sosyal-medya
   - yalan
   - yazi
 ---

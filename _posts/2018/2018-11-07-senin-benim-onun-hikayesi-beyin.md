@@ -9,7 +9,7 @@ categories:
 tags:
   - beyin
   - bilim
-  - david eagleman
+  - david-eagleman
   - kitap
 ---
 

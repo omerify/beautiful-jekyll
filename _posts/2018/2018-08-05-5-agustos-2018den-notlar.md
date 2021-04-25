@@ -8,7 +8,7 @@ categories:
   - Blog
 tags:
   - notlar
-  - seyir defteri
+  - seyir-defteri
 ---
 
 * **Venezuela Devlet Başkanı Nicolas Maduro askeri törende konuşma yaptığı sırada patlayıcı yüklü drone’la saldırı düzenlendi**. Maduro olaydan yara almadan kurtulurken, saldırıda 7 asker yaralandı. Saldırı sonrası açıklama yapan Maduro, komşu Kolombiya ve ABD’yi suçladı. Olaylardan sonra ünlü bir karikatüristin 2017 yılında bir medya şirketi için hazırladığı görsel tekrar gündeme geldi. (<a href="https://www.ntv.com.tr/galeri/dunya/venezuela-devlet-baskani-maduroya-askeri-torende-suikast-girisimi,tRwk2SvgsEqtfOdiyCvbSw/VVwTj3usVUKdz_xIFysefQ" target="_blank" rel="noreferrer noopener nofollow">NTV</a>)

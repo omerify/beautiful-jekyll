@@ -9,10 +9,8 @@ categories:
 tags:
   - balik
   - mevsim
-  - ne zaman yemeli
   - saglik
   - yemek
-  - resim
 ---
 
 ![](https://omerify.github.io/blog/assets/img/2013/10/balik-yeme-ne-zaman-yenir.png) 

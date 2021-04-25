@@ -9,8 +9,8 @@ categories:
 tags:
   - api
   - ar
-  - artirilmis gerceklik
-  - sanal gerceklik
+  - artirilmis-gerceklik
+  - sanal-gerceklik
   - vr
   - web
   - webvr

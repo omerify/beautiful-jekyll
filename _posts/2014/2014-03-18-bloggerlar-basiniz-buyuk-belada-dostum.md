@@ -7,9 +7,9 @@ permalink: /2014/03/18/bloggerlar-basiniz-buyuk-belada-dostum/
 categories:
   - Blog
 tags:
-  - basin kanunu
+  - basin
   - haber
-  - internet yasasi
+  - internet
   - yazi
 ---
 

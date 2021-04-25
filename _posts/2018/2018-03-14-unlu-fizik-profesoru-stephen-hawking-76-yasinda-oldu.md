@@ -8,7 +8,7 @@ categories:
   - Blog
 tags:
   - olum
-  - stephen hawking
+  - stephen-hawking
   - bilim
 ---
 

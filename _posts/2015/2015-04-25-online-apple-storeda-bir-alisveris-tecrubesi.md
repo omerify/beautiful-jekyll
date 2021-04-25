@@ -7,7 +7,7 @@ permalink: /2015/04/25/online-apple-storeda-bir-alisveris-tecrubesi/
 categories:
   - Blog
 tags:
-  - apple store
+  - apple-store
   - apple
   - iphone
   - alisveris

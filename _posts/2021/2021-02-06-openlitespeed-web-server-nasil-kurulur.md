@@ -8,11 +8,11 @@ categories:
   - Blog
 tags:
   - openlitespeed
-  - openlitespeed kurulumu
+  - openlitespeed-kurulumu
   - server
-  - server kurulumu
+  - server-kurulumu
   - sunucu
-  - sunucu kurulumu
+  - sunucu-kurulumu
   - vps
 ---
 

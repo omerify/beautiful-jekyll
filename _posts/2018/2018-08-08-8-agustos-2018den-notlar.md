@@ -8,7 +8,7 @@ categories:
   - Blog
 tags:
   - notlar
-  - seyir defteri
+  - seyir-defteri
 ---
 
 * **NASA’nın doğruladığı olayda** ABD’deki bir askeri üs yakınlarına 25 Temmuz’da bir **göktaşı** düştüğü ortaya çıktı. (<a href="http://www.onaltiyildiz.com/?haber,6862" target="_blank" rel="noreferrer noopener nofollow">onaltiyildiz.com</a>)

@@ -13,7 +13,7 @@ tags:
   - rusya
   - rusya
   - cin
-  - medineli haci osman akfirat
+  - medineli-haci-osman-akfirat
   - hadis
   - kuran
   - alinti

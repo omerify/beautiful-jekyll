@@ -8,7 +8,7 @@ categories:
   - Blog
 tags:
   - notlar
-  - seyir defteri
+  - seyir-defteri
 ---
  
 * **İçine Kapanık İnsanlar Sosyal Psikolog Olmaya “Doğuştan” Yatkınlar:** Araştırma sonuçlarına göre melankoliye yatkın, içine kapanık insanlar grup içerisinde nasıl davrandığımızı çözümlemede diğer sosyal akranlarına göre daha becerikli görünüyorlar. (<a href="https://evrimagaci.org/icine-kapanik-insanlar-sosyal-psikolog-olmaya-dogustan-yatkinlar-7320" target="_blank" rel="noreferrer noopener nofollow">EvrimAğacı</a>)

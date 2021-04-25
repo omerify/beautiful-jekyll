@@ -10,7 +10,7 @@ tags:
   - abd
   - teknoloji
   - diktator
-  - sosyal medya
+  - sosyal-medya
   - fasizm
 ---
 

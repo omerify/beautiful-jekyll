@@ -8,7 +8,7 @@ categories:
   - Blog
 tags:
   - notlar
-  - seyir defteri
+  - seyir-defteri
 ---
 
 * **Diyanet, Adnan Oktar ve grubu için açıklama yapmış.** Yarı çıplak kadınları senelerce canlı yayında ‘inşallah’, ‘maşallah’ diyerek dini cemaat/grup ya da kendi deyimiyle arkadaş ortamı hakkında tek kelime duymadığımız diyanet açıklama yapıyor. Düşene tekme atmak kolaydır. Adama sormazlar mı? Bunca sene neredeydiniz. Bu kadar insanı dini kullanarak ‘kandırmasına’ neden göz yumdunuz. FETÖ olayında da yıllarca dinler arası diyalogculara, Türkçe şarkı söylüyor diye küçücük kızları erkeklerin karşısında şarkı söylemesine tek kelime etmeyen diyaneti, artık hac ve umre turizmi düzenleyen, imamların maaşını ödeyen bir şirket gibi değerlendiriyorum sadece. (<a href="http://www.mynet.com/haber/guncel/diyanet-ten-adnan-oktar-cikisi-kaosu-kullanarak-gencleri-kandirdi-4325306-1" target="_blank" rel="noreferrer noopener nofollow">MynetHaber</a>)
