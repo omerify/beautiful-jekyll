@@ -10,6 +10,9 @@ tags:
   - sessiz sinema
   - film isimleri
   - sessiz sinema oyunu
+  - sessiz sinema filmleri
+  - zor film isimleri
+  - kolay film isimleri
 ---
 
 Her ne kadar bu sene mayıstan önce güneşin yüzünü göremeyeceğimizi söyleselerde eninde sonunda gelecek olan Yaz mevsiminin vazgeçilmez oyunlarında biri **"Sessiz Sinema"** oyununda **film isimleri** bulamayanlar için bu sene filmleri **araştırdım**en iyilerini buraya eklemeye çalıştım. Kazanmak güzel olsada, bu oyun için eğlence öncelik içerdiğinden, özellikle eğlenceli filmleri seçmeye özen gösterdim. Burada yazan flimlere ayrıca **mobil cihazınızla**çardakta, bahçede, kumsalda ve telefonunuzun çekeceği her yerden ulaşmak için ziyaret edebilirsiniz. Hatta bazı bilinmeyen kelimelerin anlamlarını bile ekledim. Bol Eğlenceler... !
