@@ -30,7 +30,7 @@ Bu yazıyı ve siteleri güncel tutacağım. Listede olmayan sizin kullandığı
 
 <p><a rel="noreferrer noopener nofollow" href="https://www.vudu.com/" target="_blank">2- Vudu</a></p>
 
-<figure><img src="https://omerify.github.io/blog/assets/img/2020/05/vudu-free-online-movie-bedava-film-dizi" /></figure>
+<figure><img src="https://omerify.github.io/blog/assets/img/2020/05/vudu-free-online-movie-bedava-film-dizi.png" /></figure>
 
 <p><a rel="noreferrer noopener" href="https://www.vudu.com/" target="_blank">Vudu</a> ise ABD&#8217;li şirket <strong>Walmart</strong>&#8216;ın sahibi olduğu bir online streaming websitesi. <em>Ücretli</em> ve <em>ücretsiz</em> seçenekleri bulunan <strong>Vudu</strong>&#8216;da seçenekler arası tek fark reklamlar. Ama güzelce kategorilere ayrılmış bir çok film ve dizi için gayet makul bir bedel.</p>
 
@@ -42,7 +42,7 @@ Bu yazıyı ve siteleri güncel tutacağım. Listede olmayan sizin kullandığı
 
 <p><a rel="noreferrer noopener nofollow" href="https://www.crackle.com/" target="_blank">4- Crackle</a></p>
 
-<figure><img src="https://omerify.github.io/blog/assets/img/2020/05/sony-crackle-free-online-movie-bedava-film-dizi.jpg" /></figure>
+<figure><img src="https://omerify.github.io/blog/assets/img/2020/05/sony-crackle-free-online-movie-bedava-film-dizi.jpeg" /></figure>
 
 <p><a rel="noreferrer noopener nofollow" href="https://www.crackle.com/" target="_blank">Crackle</a> yasal ve ücretsiz bir çevrimiçi film akışı web sitesidir. En sevdiğiniz filmleri veya TV dizileri izlemek için kaydolmanız bile gerekmez. <strong>Sony Pictures Entertainment Company</strong>&#8216;ye ait olan Crackle&#8217;ı TV&#8217;nizde veya dizüstü bilgisayarınızda ücretsiz olarak kullanabilirsiniz ama maalesef bu site için VPN kullanmanız gerekecek çünkü Türkiye&#8217;ye kapalı.</p>
 
