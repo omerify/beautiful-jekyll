@@ -1,5 +1,5 @@
 ---
-title: Ye'cüc Me'cüc Rusya veya Çin'den mi Çıkacak?
+title: Ye'cüc Me'cüc Rusya ve Çin'den mi Çıkacak?
 date: 2014-03-17T19:22:00+03:00
 author: omerify
 layout: post
