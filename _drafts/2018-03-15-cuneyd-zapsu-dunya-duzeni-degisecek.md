@@ -16,6 +16,8 @@ tags:
 
 **Dünya Ekonomik Forumu'nca (WEF) sermayenin enternasyonali olarak tasarımlanan Davos Zirvesi 'Parçalanan Dünyada Ortak Gelecek Oluşturmak' temasıyla düzenlendi. Cumhurbaşkanlığı eski danışmanlarından Cüneyt Zapsu da zirvedeydi. Zapsu, yeni çağ ve yeni dünya düzeni ilgili ilginç açıklamalar yaptı.**
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4EDORSxv4CI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Teknolojinin büyük bir hızla mesafe kat ettiği günümüzde, World Economic Forum'da da teknoloji ve yeni dünya düzeniyle ilgili çarpıcı bilgiler ortaya çıktı. Cüneyt Zapsu da, forumu yerinde takip edenlerden biriydi.
 
 Zapsu; "World Economic Forum siyasi bir sirk değil, siyaset değil zaten aslında. Doksanların başlarında, ilk ziyaret etmeye başladığım zamanlar kök hücre meselesi konuşuluyordu burada, dünyada 15 sene sonra konuşulmaya başlandı. Aynı şekilde Bill Gates, bugünkü akıllı telefonlardan bahsediyordu. Üstelik daha normal cep telefonları yokken" dedi.
