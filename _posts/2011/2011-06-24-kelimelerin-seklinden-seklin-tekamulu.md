@@ -7,9 +7,9 @@ permalink: /2011/06/24/kelimelerin-seklinden-seklin-tekamulu/
 categories:
   - Blog
 tags:
-  - benim dunyam
+  - benim-dunyam
   - dusunce
-  - insanlara oynanan oyunlar
+  - insanlara-oynanan-oyunlar
   - yazi
 ---
 <blockquote>

@@ -7,10 +7,10 @@ permalink: /2011/02/13/gonul-calabin-tahti/
 categories:
   - Blog
 tags:
-  - sen sana ne sanirsan
+  - sen-sana-ne-sanirsan
   - siir
   - yazi
-  - yunus emre
+  - yunus-emre
 ---
 
 Bugün beni çok etkileyen bir şiir paylaşmak istedim. Her mısrada, her kıtada ayrı anlam deryaları içeren **Yunus Emre**’nin **“Gönül Calab’ın Tahtı”** şiiri.

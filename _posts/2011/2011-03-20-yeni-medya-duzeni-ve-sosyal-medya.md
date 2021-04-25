@@ -8,7 +8,7 @@ categories:
   - Blog
 tags:
   - facebook
-  - sosyal medya
+  - sosyal-medya
   - twitter
   - yazi
 ---

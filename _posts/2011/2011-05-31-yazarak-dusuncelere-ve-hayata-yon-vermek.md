@@ -9,8 +9,8 @@ categories:
   - Blog
 tags:
   - dusunce
-  - dusunceleri degistirmek
-  - hayati degistirmek
+  - dusunceleri-degistirmek
+  - hayati-degistirmek
   - yazi
 ---
 <a href="http://tr.wikipedia.org/wiki/Blog" target="_blank" rel="noreferrer noopener nofollow">Blog</a> yazmaya yeni başladım sayılır. Daha önce denizde çalışmam nedeniyle kısa süreli ve kopuk kopuk blog yazmaya çalışmıştım. Bu yazıda düzenli blog yazmaya başladığımda fark ettiğim durumdan bahsedeceğim.

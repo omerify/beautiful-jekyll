@@ -8,8 +8,8 @@ categories:
   - Blog
 tags:
   - ahlak
-  - turk ahlaki
-  - turklerin yasam tarzi
+  - turk-ahlaki
+  - turklerin-yasam-tarzi
   - yazi
 ---
 

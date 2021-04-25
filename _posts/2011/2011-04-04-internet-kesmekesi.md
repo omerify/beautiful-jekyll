@@ -7,9 +7,9 @@ permalink: /2011/04/04/internet-kesmekesi/
 categories:
   - Blog
 tags:
-  - bilgi toplumu
+  - bilgi-toplumu
   - hikaye
-  - internetin etkileri
+  - internetin-etkileri
   - yazi
 ---
 

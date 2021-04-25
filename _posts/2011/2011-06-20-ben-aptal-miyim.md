@@ -9,7 +9,7 @@ categories:
 tags:
   - akil
   - dogal
-  - dunya barisi
+  - dunya-barisi
   - evet
 ---
 

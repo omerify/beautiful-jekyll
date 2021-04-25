@@ -9,7 +9,7 @@ categories:
   - Blog
 tags:
   - hadis
-  - neler oluyor
+  - neler-oluyor
   - ruya
   - yazi
 ---
