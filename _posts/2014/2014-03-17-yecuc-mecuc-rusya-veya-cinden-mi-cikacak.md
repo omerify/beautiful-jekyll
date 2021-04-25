@@ -11,7 +11,6 @@ tags:
   - mecuc
   - avrupa
   - rusya
-  - rusya
   - cin
   - medineli-haci-osman-akfirat
   - hadis
@@ -117,7 +116,7 @@ Böyle bir toplumun dahi, yarının getireceği çok zorlu şartlar karşısınd
 
 **Rusya-Çin-Kuzey Kore ittifakı günden güne güçleniyor; batı için çok önemli karabulutlar oluşturmaya başlıyor... Bazıları, Amerika'nın büyük savaşta alacağı önemli yaralardan sonra Birleşik devlet bütünlüğünün kalmayacağını; eyaletlerin bağımsızlıklarını ilân ederek çok sayıda yeni Amerikan Devletinin ortaya çıkacağını söylüyorlar... Avrupa'nın ise konuşulacak yanı bile kalmayacakmış; rivâyete göre!.**
 
-Türkiye'de bazıları ise, Fatih kuşatması altındaki İstanbul papazlarının meleklerin cinsiyetini tartışması türünden lokalize konularla gün dolduruyorlar... 
+Türkiye'de bazıları ise, Fatih kuşatması altındaki İstanbul papazlarının meleklerin cinsiyetini tartışması türünden lokalize konularla gün dolduruyorlar...
 Halkın olası bir büyük savaşa karşı hiç bir hazırlığı yok!.
 
 Bundan 35 yıl önce rahmetli hocam **Seyyid Osman Akfırat'ın** dizi dibinde otururken, " **Şimdi İstanbul'da ev alınmaz Hulûsi... Yarın öbür gün Ruslar İstanbul'u işgal edince, herkes evini yok pahasına satıp Anadolu'ya kaçacak, işte o zaman ev alınır!** " demişti... Sanırım, ben de bunu, çocuğum olmadığına göre, torunum yaşındakilere nakledeceğim.... Belki onlar da, daha sonrakilere nakledecek...
