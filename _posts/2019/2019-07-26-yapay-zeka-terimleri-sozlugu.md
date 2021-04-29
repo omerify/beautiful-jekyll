@@ -16,6 +16,7 @@ tags:
   - teknoloji
   - veri
   - yapay-zeka
+  - yapay-zeka-nedir
   - yapay-zeka-ornekleri
   - yapay-zeka-ne-demek
 ---
