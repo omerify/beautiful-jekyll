@@ -23,15 +23,13 @@ tags:
 
 Çoğumuz yapay zekayı basit olarak robotlarla insanlar arasındaki etkileşim olarak düşünüruz. Geleceği değiştireceği söylenen **yapay zeka** teknolojisi, “_robot-insan ilişkisi_” kavramının ötesine uzanan alt bileşenlerle çok yönlüdür. Ne yazık ki, henüz emekleme aşamasında olan bu teknoloji için ortaya çıkan kavramlar şimdiden karışmaya başladı. En azından benim için.
 
-İnternette gezinirken _yapay zeka_ ile ilgili haberlere denk geldiğinizde muhtemelen “**veri madenciliği**” ve “**makine öğrenimi**” gibi terimler görmüşsünüzdür. Ancak okuduğunuzu anlamanıza yardımcı olacak özlü bir tanım bulmak çoğunlukla kolay olmuyor. İşte tam da bu amaçla hem öğrenmek hem de öğrendiklerimi paylaşmak adına yapay zeka ile ilgili bulabildiğim terimlerin basit anlamlarını aşağıya ekledim. Umarım size de yardımcı olur.
+İnternette gezinirken _yapay zeka_ ile ilgili haberlere denk geldiğinizde muhtemelen “**veri madenciliği**” ve “**makine öğrenimi**” gibi terimler görmüşsünüzdür. Ancak okuduğunuzu anlamanıza yardımcı olacak özlü bir tanım bulmak çoğunlukla kolay olmuyor. İşte tam da bu amaçla hem öğrenmek hem de öğrendiklerimi paylaşmak adına __yapay zeka__ ile ilgili bulabildiğim terimlerin anlamlarını ekledim. Bu yazıda *makine öğrenimi* _veri madenciliği_, *derin öğrenme* ve *__yapay zeka nedir__* gibi soruların cevaplarını bulmaya çalıştım. Umarım size de yardımcı olur.
 
-Elimden geldiğinde güncellemeye ve başlıkları zenginleştirmeye çalışacağım.
-
-Eksik, yanlış veya tavsiyelerinizi lütfen yorum bölümünde belirtin.
+## Yapay Zeka Terimleri
 
   * **Yapay zeka ( Artificial intelligence ):** Bir bilgisayarın veya bilgisayar kontrolündeki bir robotun çeşitli faaliyetleri zeki canlılara benzer şekilde yerine getirme kabiliyeti. (örneğin karar verme, nesne sınıflandırma ve algılama, konuşma tanıma ve çeviri)
 
-  * **Genel yapay zeka ( AGI — Artificial general intelligence ):** İnsanlarla benzer kabiliyete sahip yapay zeka türüdür ayrıca **güçlü yapay zeka** (strong AI) olarak da bilinir. Halen başlangıç aşamasındadır. Tarih vermek yanlış olsa da 2020&#8217;li yıllarında sonlarında görmemiz muhtemel.
+  * **Genel yapay zeka ( AGI — Artificial general intelligence ):** İnsanlarla benzer kabiliyete sahip yapay zeka türüdür ayrıca **güçlü yapay zeka** (strong AI) olarak da bilinir. Halen başlangıç aşamasındadır. Tarih vermek yanlış olsa da 2030&#8217;lu yıllarda görmemiz muhtemel.
 
   * **Dar yapay zeka ( ANI — Artificial narrow intelligence ):** Dar yapay zeka belirli bir zamanda yalnızca bir göreve veya soruna odaklanabilen (örneğin bir insan rakibine karşı oyun oynayabilir) bir yapay zeka türüdür. Bu şu anda mevcut yapay zeka şeklidir. **Zayıf yapay zeka** (weak AI) olarak da bilinir.
 
@@ -104,3 +102,7 @@ Eksik, yanlış veya tavsiyelerinizi lütfen yorum bölümünde belirtin.
   * **Yapılandırılmamış veriler ( Unstructured data ):** Kolayca aranabilir düzenleri olmayan veriler (örneğin ses, video, sosyal medya içeriği)
 
   * **Denetimsiz öğrenme ( Unsupervised learning ):** bir algoritmanın sınıflandırılmayan veya etiketlenmeyen bilgilerle eğitildiği bir tür makine öğrenmesi, böylece algoritmanın rehberlik (veya denetim) olmadan hareket etmesine izin verme. Gözetimsiz veya kontrolsüz öğrenme de denir.
+
+<hr>
+
+Elimden geldiğince güncellemeye ve başlıkları zenginleştirmeye çalışacağım. Burada bulamadığınız veya eklemek istedikleriniz için benimle iletişime geçebilirsiniz.
