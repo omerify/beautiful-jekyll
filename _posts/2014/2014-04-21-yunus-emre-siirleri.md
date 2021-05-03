@@ -19,7 +19,7 @@ _**Bu sayfaya gelen değerli dostlar;**_ **Allah rızası** için **Yunus Emre**
 
 <hr />
 
-#### BEN YÜRÜREM YANE YANE
+### BEN YÜRÜREM YANE YANE
 
 Ben yürürem yane yane, Aşk boyadi beni kane  
 Ne akilem ne Divane, Gel gör beni aşk neyledi  
@@ -58,7 +58,7 @@ Mani : Anlam
 
 <hr />
 
-## GÖNÜLLER YAPMAYA GELDiM
+### GÖNÜLLER YAPMAYA GELDiM
 
 Benim bunda kararım yok, bunda gitmeye geldim  
 Bezirganım mataım çok, alana satmağa geldim.  
@@ -81,7 +81,7 @@ maşuk :&nbsp;<a href="https://en.wikipedia.org/wiki/Allah" target="_blank" rel=
 
 <hr />
 
-**DİLSİZLER HABERİN**
+### DİLSİZLER HABERİN
 
 Dilsizler haberin kulaksız dinleyesi  
 Dilsiz kulaksız sözü, can gerek anlayaşı  
@@ -98,7 +98,7 @@ imran oğlu MUSİ : MUSA peygamber
 
 <hr />
 
-**AŞK KİTABIN OKURUZ**
+### AŞK KİTABIN OKURUZ
 
 Söylememek harcısı, söylemeğin hasıdır  
 Söylemeğin harcısı, gönüllerin pasıdır  
@@ -133,7 +133,7 @@ Hod : Kendi, zaten
 
 <hr />
 
-**NİCE BESLEYESİN**
+### NİCE BESLEYESİN
 
 Nice bir besleyesin, bu kadd ile kameti  
 Düştün dünya zevkine unuttun kıyameti  
@@ -154,7 +154,7 @@ Keramet : Olağanüstü işler, haller
 
 <hr />
 
-**BU BİR ACAİB HALDİR**
+### BU BİR ACAİB HALDİR
 
 Bu bir acaip haldir bu hale kimse ermez  
 Alimle davi kılar, Veli değme göz görmez  
@@ -172,7 +172,7 @@ Fena : Benliği terkedip yokluk halinde olma
 
 <hr />
 
-**AŞK MAKAMI**
+### AŞK MAKAMI
 
 Aşk makamı al˜ ır, aşk kadim ezelidir  
 Aşk sözünü söyleyen, cümle kudret dilidir  
@@ -195,7 +195,7 @@ Marifet: Tasavvufta üstün bir makam
 
 <hr />
 
-**HAK BİR GÖNÜL VERDİ**
+### HAK BİR GÖNÜL VERDİ
 
 Hak bir gönül verdi bana, ha demeden hayran olur  
 Bir dem gelir şadan olur, bir dem gelir giryan olur  
@@ -225,7 +225,7 @@ Gümrah : Sapmış
 
 <hr />
 
-**AŞKIN ALDIN BENDEN BENİ**
+### AŞKIN ALDIN BENDEN BENİ
 
 Aşkın aldı benden beni, bana seni gerek seni  
 Ben yanarım dün ü günü, bana seni gerek seni  
@@ -253,7 +253,7 @@ Maksud : Amaç
 
 <hr />
 
-**BİR KEZ GÖNÜL YIKTIN İSE**
+### BİR KEZ GÖNÜL YIKTIN İSE
 
 Bir kez gönül yıktın ise  
 Bu kıldığın namaz değil  
@@ -267,7 +267,7 @@ Yüceden bakan göz değil
 
 <hr />
 
-**İLİM İLİM BİLMEKTİR**
+### İLİM İLİM BİLMEKTİR
 
 İlim ilim bilmektir, ilim kendin bilmektir  
 Sen kendini bilmezsin, ya nice okumaktır  
@@ -291,7 +291,7 @@ Manisi : Anlamı
 
 <hr />
 
-**EY BENİ AYIPLAYAN**
+### EY BENİ AYIPLAYAN
 
 Ey beni ayıplayan, gel beni aşktan kurtar  
 Elinden gelmez ise, söyleme fasid haber  
@@ -322,7 +322,7 @@ Nikap : Perde, yüz örtüsü
 
 <hr />
 
-**HABER EYLEN AŞIKLARA**
+### HABER EYLEN AŞIKLARA
 
 Haber eylen aşıklara, Aşka gönül veren benem  
 Aşk bahrisi oluban denizlere dalan benem  
@@ -341,7 +341,7 @@ Yüz sürüyü varan benem
 
 <hr />
 
-**BU ZAMANDA MÜSLÜMANLAR**
+### BU ZAMANDA MÜSLÜMANLAR
 
 Müslümanlar zamane yatlı oldu  
 Helal yenmez, haram kıymetli oldu  
@@ -357,7 +357,7 @@ Nasuh tevbesi : Bir daha bozmamak üzere edilen tevbe
 
 <hr />
 
-**AŞIKLAR ÖLMEZ**
+### AŞIKLAR ÖLMEZ
 
 Ya rab bu ne derttir derman bulunmaz  
 Benim garip gönlüm aşktan usanmaz  
@@ -377,7 +377,7 @@ Yunus öldü diye sela verirler
 
 <hr />
 
-**GÖNÜL CALABIN TAHTI**
+### GÖNÜL CALABIN TAHTI
 
 Miskinlikte buldular, kimde erlik var ise  
 Merdivenden ittiler, yüksekten bakar ise  
@@ -410,7 +410,7 @@ Didar : Allaha kavusma, hakkın yüzü
 
 <hr />
 
-**KİME GÖNÜL VERİR İSEM**
+### KİME GÖNÜL VERİR İSEM
 
 Kime gönül verir isem, benim ile yar olmadı  
 Halim bilip derdim sorup bana vefadar olmadı  
@@ -429,7 +429,7 @@ Ar : Utanma
 
 <hr />
 
-**AŞK VER BANA**
+### AŞK VER BANA
 
 İlahi bir aşk ver bana, kandalığım bilmeyeyim  
 Yavı kılayım ben beni, isteyiben bulmayayım  
@@ -449,7 +449,7 @@ Dem : An,vakit
 
 <hr />
 
-**AŞK**
+### AŞK
 
 işitin ey yarenler, kıymetli nesnedir aşk  
 Sultanları kul eyler, hikmetli nesnedir aşk  
@@ -461,7 +461,7 @@ Aşksız adem hayvan olur, hayvan öğüt bilir değil
 
 <hr />
 
-**SUFİYİM HALK iÇiNDE**
+### SUFİYİM HALK iÇiNDE
 
 Sufiyim halk içinde, tesbih elimden gitmez  
 Dilim marifet söyler gönlüm hiç kabul etmez  
@@ -482,7 +482,7 @@ Saluslanmak : Hilekarlık, düzenbazlık.
 
 <hr />
 
-**DERVİŞLİK DEDİKLERİ**
+### DERVİŞLİK DEDİKLERİ
 
 Dervişlik dedikleri hırka ile tac degil  
 Gönlün derviş eyleyen hırkaya muhtaç değil  
@@ -491,7 +491,7 @@ Yol eriyle yoldadır, yolsuza yoldaş değil
 
 <hr />
 
-**HİC BİR KİŞİ BİLMEZ BİZİ**
+### HİC BİR KİŞİ BİLMEZ BİZİ
 
 Hiç bir kişi bilmez bizi, biz ne işin içindeyiz  
 Ne hırsımız baydır bizim, ne nefsimiz içindeyiz  
@@ -508,7 +508,7 @@ Munkir : İnkar eden
 
 <hr />
 
-**ERENLER YOLU**
+### ERENLER YOLU
 
 Canım erenler yolu inceden ince imiş  
 Süleymana yol kesen şol bir karınca imiş  
@@ -522,7 +522,7 @@ Biri eydur ben gördüm bir AŞIK koca imiş
 
 <hr />
 
-**AB-I HAYAT**
+### AB-I HAYAT
 
 Ab-I hayatın çeşmesi aşıkların visalidir  
 Sohbeti aşk ile eder, susamışları yakmaya  
@@ -544,7 +544,7 @@ Boyun tutmak: Teslim olmak
 
 <hr />
 
-<mark>**İŞİTİN EY YARENLER**</mark>
+### İŞİTİN EY YARENLER
 
 İşitin ey yarenler  
 Aşk bir güneşe benzer  
@@ -567,7 +567,7 @@ Bişe : Orman
 
 <hr />
 
-**SENSİN KERİM**
+### SENSİN KERİM
 
 Sensin kerim sensin rahim, Allah sana sundum elim  
 Senden artuk yoktur emim, Allah sana sundum elim  
@@ -593,7 +593,7 @@ Didar : Allahın cemali, yüzü
 
 <hr />
 
-**ÇAĞIRAYIM MEVLAM SENİ**
+### ÇAĞIRAYIM MEVLAM SENİ
 
 Dağlar ile taşlar ile çağırayım mevlam seni  
 Seherlerde kuşlar ile çağırayım mevlam seni  
@@ -619,7 +619,7 @@ Mahbub: Sevgili
 
 <hr />
 
-**DERTLİ DOLAP**
+### DERTLİ DOLAP
 
 Dolap niçin inilersin, Derdim vardır inilerim  
 Ben Mevlaya Aşık oldum, Onun için inilerim  
@@ -640,7 +640,7 @@ CALAP : Allah
 
 <hr />
 
-**LA ŞERiKE OKURSUN**
+### LA ŞERiKE OKURSUN
 
 La şerike okursun, sonra şerik katarsın  
 Bire iki demegil, fitne kimden tutarsın  
@@ -662,7 +662,7 @@ Tan : Kınama
 
 <hr />
 
-**CANIM KURBAN OLSUN**
+### CANIM KURBAN OLSUN
 
 Canım kurban olsun senin yoluna  
 Adı güzel kendi güzel Muhammed  
@@ -696,7 +696,7 @@ Cevlan : Dolaşma
 
 <hr />
 
-**CANLAR CANINI BULDUM**
+### CANLAR CANINI BULDUM
 
 Canlar canını buldum bu canım yağma olsun  
 Assı ziyandan geçtim dükkanım yağma olsun  
@@ -730,7 +730,7 @@ Sağınç : Emel, istek
 
 <hr />
 
-**DERVİŞLİK DER Kİ BANA**
+### DERVİŞLİK DER Kİ BANA
 
 Dervişlik der ki bana sen derviş olamazsın  
 Gel ne diyeyim sana sen derviş olamazsın  
@@ -755,7 +755,7 @@ Umman : Büyük deniz, okyanus
 
 <hr />
 
-**TAŞTIN YİNE DELİ GÖNÜL**
+### TAŞTIN YİNE DELİ GÖNÜL
 
 Taştın yine deli gönül sular gibi çağlar mısın  
 Aktın yine kanlı yaşım yollarımı bağlar mısın  
@@ -781,7 +781,7 @@ Sayru, sayrı : Hasta
 
 <hr />
 
-**ŞÖYLE GARiP BENCiLEYiN**
+### ŞÖYLE GARiP BENCiLEYiN
 
 Acep şu yerde varmola şöyle garip bencileyin  
 Bağrı baslı gözü yaşlı şöyle garip bencileyin  
@@ -806,7 +806,7 @@ Sin : Mezar
 
 <hr />
 
-**SELAM OLSUN**
+### SELAM OLSUN
 
 Azrail alır canımız, kurur damarda kanımız  
 Yuyıcağız kefenimiz, saranlara selam olsun  
@@ -826,7 +826,7 @@ Makbere : Kabir
 
 <hr />
 
-**DERViŞLiK YOLU**
+### DERViŞLiK YOLU
 
 Bu dervişlik yoluna, aşk ile gelen gelsin  
 Ya dervişlik neydiğin, bir zerre duyan gelsin  
@@ -849,7 +849,7 @@ Bud u vücud dermiyan : Varlığını vücudunu aradan çıkaran
 
 <hr />
 
-**ŞOL CENNETİN IRMAKLARI**
+### ŞOL CENNETİN IRMAKLARI
 
 Şol cennetin ırmakları akar Allah deyu deyu  
 Çıkmış islam bülbülleri öter Allah deyu deyu  
@@ -883,7 +883,7 @@ Rıdvan : Cennet, Cennet meleği
 
 <hr />
 
-**ELHAMDULİLLAH**
+### ELHAMDULİLLAH
 
 Haktan gelen şerbeti içtik elhamdulillah  
 Şol kudret denizini geçtik elhamdulillah  
@@ -908,7 +908,7 @@ Yunus miskin çiğ idik, piştik elhamdulillah
 
 <hr />
 
-**HAKKI BULDUM CAN İÇİNDE**
+### HAKKI BULDUM CAN İÇİNDE
 
 Baştan ayağa değin, Haktır ki seni tutmuş  
 Haktan ayrı ne vardır, Kalma guman içinde  
@@ -928,7 +928,7 @@ Bahri : Deniz
 
 <hr />
 
-**CAN İÇİNDE CAN OL**
+### CAN İÇİNDE CAN OL
 
 Can olgil can içinde, kalma guman içinde  
 İstediğin bulasın, yakın zaman içinde  
@@ -948,7 +948,7 @@ Hakkel-yakin : Aşkın artıp, HAK ile BiR olma, (ayrılığın kalkması)
 
 <hr />
 
-**BÜTÜN ALEM BiR İÇİNDE**
+### BÜTÜN ALEM BiR İÇİNDE
 
 Onsekizbin alemin cümlesi BiR içinde  
 Kimse yok BiR den ayruk, söylenir BiR içinde  
@@ -967,7 +967,7 @@ Ayan : Açık, açıkca ortada
 
 <hr />
 
-**OL CALABIMIN AŞKI**
+### OL CALABIMIN AŞKI
 
 Ol calabımın aşkı bağrımı baş eyledi  
 Aldı benim gönlümü, sırrımı faş eyledi  
@@ -991,7 +991,7 @@ Mahfil : Meclis, toplantı yeri
 
 <hr />
 
-**SUN KADEHİ EY SAKi**
+### SUN KADEHİ EY SAKi
 
 Doldur bize sun kadehi, Aşk şarabından ey saki  
 Ol denizden içir bize, k’andan içer seyh u faki  
@@ -1013,7 +1013,7 @@ faki : FIKIH alimi
 
 <hr />
 
-**YA MUHAMMED CANIM ARZULAR SENİ**
+### YA MUHAMMED CANIM ARZULAR SENİ
 
 Arayı arayı bulsam izini  
 İzinin tozuna sürsem yüzümü  
@@ -1033,7 +1033,7 @@ Ya Muhammed canım arzular seni
 
 <hr />
 
-**GELDi GEÇTi ÖMRÜM BENİM**
+### GELDi GEÇTi ÖMRÜM BENİM
 
 Geldi geçti ömrüm benim, şol yel esip geçmiş gibi  
 Hele bana şöyle geldi, şol göz yumup açmış gibi  
@@ -1050,7 +1050,7 @@ Meğer HIZIR, İLYAS ola, Ab-ı hayat içmiş gibi
 
 <hr />
 
-**AŞIK — MAŞUK**
+### AŞIK — MAŞUK
 
 Helal kıldı maşuka, Aşık kendi kanını  
 Maşuk nakşından okur, Aşk eri kuranını  
@@ -1080,7 +1080,7 @@ Külüng : Kazma
 
 <hr />
 
-**SEVEREM BEN SENİ CANDAN İÇERİ**
+### SEVEREM BEN SENİ CANDAN İÇERİ
 
 Severem ben seni candan içeri  
 Yolum vardır bu erkandan içeri  
@@ -1112,7 +1112,7 @@ Gün : Gündüz, güneş
 
 <hr />
 
-**BULDUK OL CANI**
+### BULDUK OL CANI
 
 Aşk ile ister idik yine bulduk ol canı  
 Gömlek edinmiş giyer suret ile bu teni  
@@ -1131,7 +1131,7 @@ Kan : Maden
 
 <hr />
 
-**BİR SAKİDEN İÇTİK ŞARAP**
+### BİR SAKİDEN İÇTİK ŞARAP
 
 Bir sakiden içtik şarap, Arştan yüce meyhanesi  
 Ol sakinin mestleriyiz, canlar onun meyhanesi  
@@ -1160,7 +1160,7 @@ Cezbe : İlahi sarhoşluk hali
 
 <hr />
 
-**SÖYLEYEMEM**
+### SÖYLEYEMEM
 
 Ey yarenler eydemezem, canım neye yandığını  
 Dil ile vasfedemem, gönlümü kim aldığını  
@@ -1184,7 +1184,7 @@ Paymal : Ayak altında çiğnenmiş
 
 <hr />
 
-**EZELDEN VAR İDİ**
+### EZELDEN VAR İDİ
 
 Ezeliden var idi, canımda bu aşk odu  
 Eşkere etmez idim, bilirdim ki dost koydu  
@@ -1206,7 +1206,7 @@ Farig : Vazgeçmiş
 
 <hr />
 
-**SIRRA ERDİM**
+### SIRRA ERDİM
 
 Ben bunda seyr eder iken, aceb sırra erdim ahi  
 Bir siz dahi sizde görün, dostu bende gördüm ahi  
@@ -1234,7 +1234,7 @@ Magrib, Meşrik : Doğu, Batı
 
 <hr />
 
-**AŞK BAHRİSİ**
+### AŞK BAHRİSİ
 
 Benem ol aşk bahrisi denizler hayran bana  
 Derya benim katremdir zerreler umman bana  
@@ -1270,7 +1270,7 @@ Buhtan : İftira
 
 <hr />
 
-**NİTELİĞİM SORAN**
+### NİTELİĞİM SORAN
 
 Niteliğim soran işit hikayet  
 Su vu toprak od u yel oldu suret  
@@ -1298,7 +1298,7 @@ Basaret : Görme
 
 <hr />
 
-**AŞK İMAMDIR BİZE**
+### AŞK İMAMDIR BİZE
 
 Aşk imamdır bize, gönül cemaat  
 Kıblemiz dost yüzü daimdir salat  
@@ -1343,7 +1343,7 @@ Kemine : Aciz, en değersiz
 
 <hr />
 
-**AŞIKLARA DİN NE HACET**
+### AŞIKLARA DİN NE HACET
 
 Din umillet sorar isen, aşıklara din ne hacet  
 Aşık kişi harab olur, harab bilmez din diyanet  
@@ -1372,7 +1372,7 @@ Havf u reca : Korku ve ümit
 
 <hr />
 
-**CIKTIM ERiK DALINA**
+### CIKTIM ERiK DALINA
 
 Çıktım erik dalına anda yedim üzümü  
 Boştan ıssı kakıyıp, der ne yersin kozumu  
@@ -1418,7 +1418,7 @@ Munafık: İçi dışı bir olmayan, sahte müslüman
 
 <hr />
 
-**SÖZLERİN ASLI**
+### SÖZLERİN ASLI
 
 Ey sözlerin aslın bilen, gel de bu söz kandan gelir  
 Söz aslını anlamayan, sanır bu söz benden gelir  
@@ -1451,7 +1451,7 @@ Süz : Yanıp tutuşma
 
 <hr />
 
-**KOĞIL ÖLÜM ENDİŞESİN**
+### KOĞIL ÖLÜM ENDİŞESİN
 
 Koğıl ölüm endişesin, Aşıklar ölmez bakidir  
 Ölüm aşıkın nesidir cun nur-u ilahidir  
@@ -1473,7 +1473,7 @@ Kullun yerci : Herşey döner (Haktan gelen hakka dönecektir)
 
 <hr />
 
-**AŞIKMIDIR**
+### AŞIKMIDIR
 
 Canını aşk yoluna vermeyen aşık mıdır  
 Cehdeyleyip ol dosta ermeyen aşık mıdır  
@@ -1500,7 +1500,7 @@ Urmak : Vurmak
 
 <hr />
 
-**HAKİKATIN MANASI**
+### HAKİKATIN MANASI
 
 Hakikatin manisin şerh ile bilmediler  
 Erenler bu dirliği, riya dirilmediler  
@@ -1521,7 +1521,7 @@ Tefsir : Açıklama
 
 <hr />
 
-**VÜCUD ŞEHRİ**
+### VÜCUD ŞEHRİ
 
 İşbu vücud şehrine bir dem giresim gelir  
 İçindeki sultanın yüzün göresim gelir  
@@ -1537,7 +1537,7 @@ pinhan : Gizli
 
 <hr />
 
-**AŞK ÖDÜ**
+### AŞK ÖDÜ
 
 Aşkın ödü ciğerimi yaka geldi yaka gider  
 Garip başım bu sevdayı çeke geldi çeke gider  
@@ -1553,7 +1553,7 @@ Firak : Ayrılık
 
 <hr />
 
-**SEMA**
+### SEMA
 
 Bu sema’a girmeyen sonra peşiman olur  
 Erişir bizim ile ser-be-ser düşman olur  
@@ -1569,7 +1569,7 @@ Epsem : Dilsiz
 
 <hr />
 
-**ARİFLER ORTASINDA**
+### ARİFLER ORTASINDA
 
 Arifler ortasında Sufilik satmayalar  
 Cun Sufiye ihlas oldu, Aşka riya katmayalar  
@@ -1593,7 +1593,7 @@ Hergiz : Asla
 
 <hr />
 
-**HAK İSTEYEN**
+### HAK İSTEYEN
 
 Ey dünü gün HAK isteyen, bilmezmisin HAK kandadır  
 Her kandasam anda hazır, kanda bakarsam andadır  
@@ -1616,7 +1616,7 @@ Zahir : Dış, görünen
 
 <hr />
 
-**YAR YÜREĞİM YAR**
+### YAR YÜREĞİM YAR
 
 Yar yüreğim yar, gör ki neler var  
 Bu halk içinde bize güler var  
@@ -1636,7 +1636,7 @@ Meydan içinde merdaneler var
 
 <hr />
 
-**AŞKIN OKU**
+### AŞKIN OKU
 
 Dost senin aşkın oku key katı taştan geçer  
 Aşkına düşen kişi can ile baştan geçer  
@@ -1660,7 +1660,7 @@ Düğeli : Bütün, hepsi
 
 <hr />
 
-**ERENLER NEREDEDİR**
+### ERENLER NEREDEDİR
 
 Bilirmisiniz ey yarenler, gerçek erenler kandadır  
 Kanda baksam anda hazır, Kanda isterem andadır  
@@ -1680,7 +1680,7 @@ Bu aşk bize yeni geldi, henuz dahi turfandadır
 
 <hr />
 
-**AŞKLA GELEN ERENLER**
+### AŞKLA GELEN ERENLER
 
 Aşkla gelen erenler içer aguyu nuş eder  
 Topuğa çıkmayan sular, deniz ile savaş eder  
@@ -1698,7 +1698,7 @@ Tesviş : İşkillenme
 
 <hr />
 
-**CEFANIN ADI AŞK**
+### CEFANIN ADI AŞK
 
 Türlü türlü cefanın, adını aşk vermişler  
 Bu cefaya katlanan, dosta halvet vermişler  
@@ -1716,7 +1716,7 @@ Munkir : İnkar eden
 
 <hr />
 
-**SÖZ OLA KESE SAVAŞI**
+### SÖZ OLA KESE SAVAŞI
 
 Sözü bilen kişinin, yüzünü ak ede bir söz  
 Sözü pişirip diyenin işini sağ ede bir söz  
@@ -1734,7 +1734,7 @@ Yat : Usul, yol yordam
 
 <hr />
 
-**VÜCUDDA BULDUK**
+### VÜCUDDA BULDUK
 
 Mani evine daldık, vücuda seyran kıldık  
 İki cihan seyrini, cümle vücudda bulduk  
@@ -1751,7 +1751,7 @@ Saddak : Doğru
 
 <hr />
 
-**BİR NAZARDA KALMAYALIM**
+### BİR NAZARDA KALMAYALIM
 
 Bir nazarda kalmayalım gel dosta gidelim gönül  
 Hasret ile ölmeyelim gel dosta gidelim gönül  
@@ -1786,7 +1786,7 @@ Terkin urmak : Terketmek, bırakmak
 
 <hr />
 
-**TEHİ GÖRME KİMSEYİ**
+### TEHİ GÖRME KİMSEYİ
 
 Tehi görme kimseyi hiç kimsene boş değil  
 Eksiklik ile nazar erenlere hoş değil  
@@ -1807,7 +1807,7 @@ Hergiz : Asla
 
 <hr />
 
-**HAK CALABIM HAK CALABIM**
+### HAK CALABIM HAK CALABIM
 
 Hak Calabım Hak Calabım sencileyin yok Calabım  
 Günahlarımız yarlığa ey rahmeti çok Calabım  
@@ -1831,7 +1831,7 @@ Firak : Ayrılık
 
 <hr />
 
-**BENİM CANIM UYANIKTIR**
+### BENİM CANIM UYANIKTIR
 
 Benim canım uyanıktır dost yüzüne bakan benem  
 Hem denize karışmağa ırmak olup akan benem  
@@ -1879,7 +1879,7 @@ Sa’d : Uğurlu, mübarek
 
 <hr />
 
-**HER KAÇAN ANARSAM SENİ**
+### HER KAÇAN ANARSAM SENİ
 
 Her kacan anarsam seni kararım kalmaz Allahım  
 Senden ayrı gözüm yaşın kimseler silmez Allahım  
@@ -1906,7 +1906,7 @@ Didar : Allahın cemali,yüz
 
 <hr />
 
-**TEHİ GÖRMEN SİZ BENİ**
+### TEHİ GÖRMEN SİZ BENİ
 
 Tehi görmen siz beni dost yüzün görüp geldim  
 Baki devr-i rüzgigar dost ile sürüp geldim  
@@ -1949,7 +1949,7 @@ Dürümek : Bir araya getirmek
 
 <hr />
 
-**BEN BİR ACEB İLE GELDİM**
+### BEN BİR ACEB İLE GELDİM
 
 Ben bir aceb ile geldim kimse halim bilmez benim  
 Ben söylerem ben dinlerem kimse dilim bilmez benim  
@@ -1976,7 +1976,7 @@ Munkir : İnkar eden
 
 <hr />
 
-**HER KANCARU DÖNER İSEM**
+### HER KANCARU DÖNER İSEM
 
 Her kancaru döner isem aşk iledir işim benim  
 Öldür gönlümde teşvişim hem aşktır yoldaşım benim  
