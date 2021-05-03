@@ -3,6 +3,22 @@
 # set up your website you should go through all these settings and edit them, but after
 # the initial set up you won't need to come back to this file often.
 
+##########################
+# The production_url is only used when full-domain names are needed
+# such as sitemap.txt 
+# Most places will/should use BASE_PATH to make the urls
+#
+# If you have set a CNAME (pages.github.com) set your custom domain here.
+# Else if you are pushing to username.github.com, replace with your username.
+# Finally if you are pushing to a GitHub project page, include the project name at the end.
+#
+#production_url : https://omerify.github.io
+#
+# used by jekyll-feed
+#url : https://omerify.github.io
+##########################
+
+
 # --- Required options --- #
 
 language: tr
