@@ -19,7 +19,7 @@ _**Bu sayfaya gelen değerli dostlar;**_ **Allah rızası** için **Yunus Emre**
 
 <hr />
 
-**BEN YÜRÜREM YANE YANE**
+#### BEN YÜRÜREM YANE YANE
 
 Ben yürürem yane yane, Aşk boyadi beni kane  
 Ne akilem ne Divane, Gel gör beni aşk neyledi  
@@ -42,7 +42,7 @@ Melül : Elem
 
 <hr />
 
-**SEVELİM SEVİLELİM**
+### SEVELİM SEVİLELİM
 
 Hak cihana doludur, kimseler Hakkı bilmez  
 Onu sen senden iste, o senden ayrı olmaz  
@@ -58,7 +58,7 @@ Mani : Anlam
 
 <hr />
 
-**GÖNÜLLER YAPMAYA GELDiM**
+## GÖNÜLLER YAPMAYA GELDiM
 
 Benim bunda kararım yok, bunda gitmeye geldim  
 Bezirganım mataım çok, alana satmağa geldim.  
