@@ -915,8 +915,8 @@ Haktan ayrı ne vardır, Kalma guman içinde
 Bir isen birliğe gel, ikiyi bırak elden  
 Bütün mana bulasın, sıdk u iman içinde  
 \*\\*\* \*\**  
-<mark>Girdim gönül şehrine, daldım onun bahrine  
-AŞK ile gider iken, iz buldum can içinde</mark>  
+Girdim gönül şehrine, daldım onun bahrine
+AŞK ile gider iken, iz buldum can içinde
 Bu izimi izledim, sağım solum gözledim  
 Çok acaibler gördüm, yoktur cihan içinde  
 \*\\*\* \*\**  
