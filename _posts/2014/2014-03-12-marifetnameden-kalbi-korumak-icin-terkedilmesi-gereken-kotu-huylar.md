@@ -11,6 +11,7 @@ tags:
   - kalp
   - marifetname
   - yazi
+  - erzurumlu-ibrahim-hakki
 ---
 
 Bundan yaklaşık 300 yıl önce Erzurumlu İbrahim Hakkı Hazretlerinin (Allah ondan razı olsun) meşhur eseri <a href="http://tr.wikipedia.org/wiki/Marifetname" target="_blank" rel="noreferrer noopener nofollow">Marifetname</a>’de bedenden daha önemli olarak nitelendirdiği kalbi koruma başlığı altında (ÜçüncüFen>İkinciBab>AltıncıFasıl) yazısında şöyle bir metne denk geldim ve paylaşmadan edemedim.
@@ -52,6 +53,3 @@ Bundan yaklaşık 300 yıl önce Erzurumlu İbrahim Hakkı Hazretlerinin (Allah 
 Bu kadar çok kötü huy olduğunu bilmiyordum. Yaklaşık 300 yıl öncesi için bile işlerin aksine gittiğini söyleyen muhterem hoca efendi bugünler için kim bilir ne derdi! Ahir zamanda işimiz hiç kolay değil vesselam.
 
 Neyse… Bir yerden başlamak gerekiyor. Ümitsiz olmaya lüzum yok! Haydi kolay gele..!
-
-
-
