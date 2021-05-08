@@ -17,7 +17,7 @@ tags:
   - zengin-gerceklik
 ---
 
-# Sanal gerçeklik (VR), artırılmış gerçeklik (AR), karma gerçeklik (MR), zengin gerçeklik ve akıllı gözlük terimler sözlüğü.
+<mark>Sanal gerçeklik (VR), artırılmış gerçeklik (AR), karma gerçeklik (MR), zengin gerçeklik ve akıllı gözlük terimler sözlüğü.</mark>
 
 ![](https://omerify.github.io/blog/assets/img/2020/08/omerify-oculus-quest-2-vr-gozluk-sanal-gerceklik-basligi-IMG_20201129_154223.jpg)
 
