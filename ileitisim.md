@@ -5,6 +5,7 @@ author: omerify
 layout: page
 permalink: /iletisim/
 ---
+
 Ömer Serdar Ören'in kişisel websitesi.
 
 İletişim için <omerify@protonmail.com> eposta adresini kullanabilirsiniz.
