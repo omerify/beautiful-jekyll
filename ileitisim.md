@@ -5,6 +5,7 @@ author: omerify
 layout: page
 permalink: /iletisim/
 ---
+Ömer Serdar Ören'in kişisel websitesi.
 
 İletişim için <omerify@protonmail.com> eposta adresini kullanabilirsiniz.
 
@@ -12,27 +13,27 @@ Takip için ise;
 
 <ul>
   <li>
-    <strong>Twitter:</strong> <a rel="me" href="https://twitter.com/omerify" target="_blank">https://twitter.com/omerify</a>
+    <strong>Twitter:</strong> <a href="https://twitter.com/omerify" rel="me" target="_blank">twitter.com/omerify</a>
   </li>
   <li>
-    <strong>Instagram:</strong> <a rel="me" href="https://www.instagram.com/omerify" target="_blank">https://www.instagram.com/omerify</a>
+    <strong>Instagram:</strong> <a href="https://www.instagram.com/omerify" rel="me" target="_blank">instagram.com/omerify</a>
   </li>
   <li>
-    <strong>Youtube:</strong> <a rel="me" href="https://www.youtube.com/omerify" target="_blank">https://www.youtube.com/omerify</a>
+    <strong>Youtube:</strong> <a href="https://www.youtube.com/omerify" rel="me"  target="_blank">youtube.com/omerify</a>
   </li>
   <li>
-    <strong>Facebook:</strong> <a rel="me" href="https://www.facebook.com/omerify" target="_blank">https://www.facebook.com/omerify</a>
+    <strong>Facebook:</strong> <a href="https://www.facebook.com/omerify" rel="me" target="_blank">facebook.com/omerify</a>
   </li>
   <li>
-    <strong>Twitch:</strong> <a rel="me" href="https://twitch.tv/omerify" target="_blank">https://twitch.tv/omerify</a>
+    <strong>Twitch:</strong> <a href="https://twitch.tv/omerify" rel="me" target="_blank">twitch.tv/omerify</a>
   </li>
   <li>
-    <strong>Github:</strong> <a rel="me" href="https://github.com/omerify" target="_blank">https://github.com/omerify</a>
+    <strong>Github:</strong> <a href="https://github.com/omerify" rel="me" target="_blank">github.com/omerify</a>
   </li>
   <li>
-    <strong>Snapchat:</strong> <a rel="me" href="https://www.snapchat.com/add/omerify" target="_blank">https://www.snapchat.com/add/omerify</a>
+    <strong>Snapchat:</strong> <a href="https://www.snapchat.com/add/omerify" rel="me" target="_blank">snapchat.com/add/omerify</a>
   </li>
   <li>
-    <strong>TikTok:</strong> <a rel="me" href="https://www.tiktok.com/@omerify" target="_blank">https://www.tiktok.com/@omerify</a>
+    <strong>TikTok:</strong> <a href="https://www.tiktok.com/@omerify" rel="me" target="_blank">tiktok.com/@omerify</a>
   </li>
 </ul>
