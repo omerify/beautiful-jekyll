@@ -26,6 +26,8 @@ YouTube: https://www.youtube.com/c/Codefiction
 
 https://twitter.com/codefictiontech
 
+---
+
 ## Developer Kahvesi
 
 Web: https://github.com/DeveloperKahvesi/
@@ -38,6 +40,7 @@ Podbean: https://munmis.podbean.com/
 
 https://twitter.com/devkahvesi
 
+---
 
 ## Sıfırdan Globale
 
@@ -50,6 +53,8 @@ Spotify: https://open.spotify.com/show/0KrspleijwAwVpD3u4vYha
 YouTube: https://www.youtube.com/channel/UCxY4cUTSeSQsR3OYlRSjdqg
 
 https://twitter.com/sifirdanglobale
+
+---
 
 ## Girişimci Muhabbeti
 
