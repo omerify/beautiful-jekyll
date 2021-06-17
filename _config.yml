@@ -32,11 +32,11 @@ author: Ömer Serdar Ören
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Arama: "arama"
+  Arsiv: "tags"
   Sayfalar:
     - Hakkında: "hakkinda"
     - İletişim: "iletisim"
-    - Etiketler: "tags"
+
 
 # --- Logo --- #
 
