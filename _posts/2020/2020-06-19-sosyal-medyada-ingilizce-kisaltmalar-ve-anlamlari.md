@@ -48,3 +48,4 @@ Sosyal medyada sıkça karşılaşılan İngilizce kısaltmalar ve anlamları il
  31. **GTG** = Gotta go &#8211; Gitmem gerek
  32. **L8** = Late &#8211; Geç
  33. **L8R** = Later &#8211; Daha sonra
+ 34. **AKA** = Also known as &#8211; Ayrıca şöyle de bilinir
